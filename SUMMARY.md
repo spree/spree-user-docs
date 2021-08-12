@@ -6,7 +6,7 @@
 
 ---
 
-* [Configuration\(Description\)](configuration-1.md)
+* [Configuration\(Description\)](configuration_description.md)
 * [Taxes](taxes.md)
 * [Inventory](inventory.md)
 * [Zones, Countries, and States](zones_countries_states.md)
