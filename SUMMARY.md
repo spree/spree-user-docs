@@ -19,6 +19,7 @@
 
 ## Navigation
 
-* [Navigation \(Description\)](navigation/untitled.md)
-* [Creating A New Menu](navigation/creating-a-new-menu.md)
+---
+
+* [Navigation \(Description\)](navigation-description.md)
 
