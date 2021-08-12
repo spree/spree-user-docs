@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Configuration](README.md)
+* [🖌 Spree User Documentation](README.md)
 
 ## Configuration
 
 ---
 
-* [Configuration](configuration-1.md)
+* [Configuration\(Description\)](configuration-1.md)
 * [Taxes](configuring_roles.md)
 * [configuring\_store\_credit\_categories](configuring_store_credit_categories.md)
 * [configuring\_store\_order\_notifications](configuring_store_order_notifications.md)

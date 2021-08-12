@@ -1,4 +1,4 @@
-# Configuration
+# Configuration\(Description\)
 
 The Configuration page of the Admin Interface is the area of your store where you can implement decisions regarding your desired store set up. This is where you decide which shipping methods you offer, which categories you assign to products, how you want the currency displayed, and dozens of other settings.
 
