@@ -25,6 +25,6 @@
 
 * [Navigation \(Description\)](navigation-description.md)
 * [Creating A New Menu](creating_a_new_menu.md)
-* [Add Items To A Menu](untitled-1.md)
-* [Building The Main Menu](untitled-2.md)
+* [Add Items To A Menu](add_items_to_a_menu.md)
+* [Building The Main Menu](building_the_main_menu.md)
 
