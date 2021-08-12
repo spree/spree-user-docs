@@ -8,8 +8,8 @@
 
 * [Configuration\(Description\)](configuration-1.md)
 * [Taxes](taxes.md)
-* [configuring\_store\_credit\_categories](configuring_store_credit_categories.md)
-* [configuring\_store\_order\_notifications](configuring_store_order_notifications.md)
+* [Inventory](inventory.md)
+* [Zones, Countries, and States](zones_countries_states.md)
 * [configuring\_taxes](configuring_taxes.md)
 * [configuring\_mail\_methods](configuring_mail_methods.md)
 

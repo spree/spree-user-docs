@@ -2,7 +2,7 @@
 title: Store Credit Categories
 ---
 
-# configuring\_store\_credit\_categories
+# Inventory
 
 ## Introduction
 

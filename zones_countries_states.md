@@ -2,7 +2,7 @@
 title: Store Order Notifications
 ---
 
-# configuring\_store\_order\_notifications
+# Zones, Countries, and States
 
 ## Introduction
 
