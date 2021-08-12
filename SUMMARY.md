@@ -57,3 +57,11 @@
 * [Editing Promotion](promotions/editing-promotion.md)
 * [Removing Promotion](promotions/removing-promotion.md)
 
+## Shipments
+
+* [Shipments \(Description\)](shipments/shipments-description.md)
+* [Calculators](shipments/calculators.md)
+* [Shipping Categories](shipments/shipping-categories.md)
+* [Shipping Methods](shipments/shipping-methods.md)
+* [Zones](shipments/zones.md)
+
