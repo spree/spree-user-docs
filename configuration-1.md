@@ -6,7 +6,7 @@ The guides in this section will walk you through all of those configuration deci
 
 You will learn how to:
 
-* [Configure Taxes](https://guides.spreecommerce.org/user/configuration/configuring_taxes.html)
+* [Configure Taxes](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/taxes)
 * [Configure Zones](https://guides.spreecommerce.org/user/configuration/configuring_geography.html)
 * [Configure Payment Methods](https://guides.spreecommerce.org/user/payments/payment_methods.html)
 * [Configure Shipping Methods](https://guides.spreecommerce.org/user/shipments/shipping_methods.html)
