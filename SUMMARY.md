@@ -42,12 +42,13 @@
 * [Products\(Description\)](products/products_description.md)
 * [Cloning Products](products/cloning_products.md)
 * [Creating a New Product](products/creating_a_new_product.md)
-* [Untitled](products/untitled-4.md)
-* [Untitled](products/untitled-3.md)
-* [Untitled](products/untitled-2.md)
-* [Untitled](products/untitled-1.md)
-* [Untitled](products/untitled.md)
-* [Untitled](products/untitled-6.md)
+* [Deleting Products](products/deleting_products.md)
+* [Editing Products](products/editing_products.md)
+* [Product Options](products/product_options.md)
+* [Product Properties](products/product_properties.md)
+* [Prototypes](products/prototypes.md)
+* [Searching Products](products/searching_products.md)
+* [Taxonomies and Taxons](products/taxonomies_and_taxons.md)
 
 ## Promotions
 
