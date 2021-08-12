@@ -13,15 +13,18 @@
 * [Analytics Tracker](analytics_tracker.md)
 * [Mail Methods](mail_methods.md)
 * [Reimbursement Types](reimbursement_types.md)
-* [Untitled](untitled-1.md)
-* [Untitled](untitled-2.md)
-* [Untitled](untitled-3.md)
+* [Return Authorization Reasons](return_authorization_reasons.md)
+* [Roles](roles.md)
+* [Spree Multi Store](spree_multi_store.md)
+* [Store Credit Categories](store_credit_categories.md)
+* [Store Order Notifications](store_order_notifications.md)
 
 ## Navigation
 
 ---
 
-* [Navigation \(Description\)](navigation-description/README.md)
-  * [Untitled](navigation-description/untitled/README.md)
-    * [Untitled](navigation-description/untitled/untitled.md)
+* [Navigation \(Description\)](navigation-description.md)
+* [Creating A New Menu](creating_a_new_menu.md)
+* [Untitled](untitled-1.md)
+* [Untitled](untitled-2.md)
 
