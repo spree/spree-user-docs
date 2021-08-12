@@ -18,13 +18,12 @@
 * [Spree Multi Store](spree_multi_store.md)
 * [Store Credit Categories](store_credit_categories.md)
 * [Store Order Notifications](store_order_notifications.md)
-* [Navigation \(Description\)](navigation_description.md)
 
 ## Navigation
 
 ---
 
-* [Navigation \(Description\)](navigation-description.md)
+* [Navigation \(Description\)](navigation_description.md)
 * [Creating A New Menu](creating_a_new_menu.md)
 * [Add Items To A Menu](add_items_to_a_menu.md)
 * [Building The Main Menu](building_the_main_menu.md)
