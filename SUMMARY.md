@@ -29,6 +29,16 @@
 * [Add Items To A Menu](add_items_to_a_menu.md)
 * [Building The Main Menu](building_the_main_menu.md)
 
+## Orders
+
+* [Orders\(Description\)](orders/orders_description.md)
+* [Editing an Order](orders/editing_an_order.md)
+* [Manual Order Entry](orders/manual_order_entry.md)
+* [Order States](orders/order_states.md)
+* [Processing Orders](orders/processing-orders.md)
+* [Returns](orders/returns.md)
+* [Searching Orders](orders/searching-orders.md)
+
 ## Payments
 
 ---
