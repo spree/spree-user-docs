@@ -10,8 +10,8 @@
 * [Taxes](taxes.md)
 * [Inventory](inventory.md)
 * [Zones, Countries, and States](zones_countries_states.md)
-* [configuring\_taxes](configuring_taxes.md)
-* [configuring\_mail\_methods](configuring_mail_methods.md)
+* [Analytics Tracker](analytics_tracker.md)
+* [Mail Methods](mail_methods.md)
 
 ## Navigation
 

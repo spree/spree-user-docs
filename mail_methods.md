@@ -2,7 +2,7 @@
 title: Mail Methods
 ---
 
-# configuring\_mail\_methods
+# Mail Methods
 
 "Spree mail settings has been extracted out into a gem in favor of generic action mailer settings."
 
