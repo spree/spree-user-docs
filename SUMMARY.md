@@ -30,9 +30,12 @@
 
 ## Payments
 
+---
+
+* [Payment Methods](payment-methods.md)
+* [Payment States](payment-states.md)
+
 ## Products
 
-* [Payment Methods](products/payment-methods.md)
 * [Products\(Description\)](products/products_description.md)
-* [Payment States](products/payment-states.md)
 
