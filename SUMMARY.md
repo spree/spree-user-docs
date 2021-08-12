@@ -7,7 +7,7 @@
 ---
 
 * [Configuration\(Description\)](configuration-1.md)
-* [Taxes](configuring_roles.md)
+* [Taxes](taxes.md)
 * [configuring\_store\_credit\_categories](configuring_store_credit_categories.md)
 * [configuring\_store\_order\_notifications](configuring_store_order_notifications.md)
 * [configuring\_taxes](configuring_taxes.md)
