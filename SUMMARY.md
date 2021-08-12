@@ -75,3 +75,11 @@
 * [Shipping Methods](shipments/shipping-methods.md)
 * [Zones](shipments/zones.md)
 
+## Users
+
+* [Users \(Description\)](users/users-description.md)
+* [Creating a New User](users/creating-a-new-user.md)
+* [Deleting Users](users/deleting-users.md)
+* [Editing Users](users/editing-users.md)
+* [Searching Users](users/searching-users.md)
+
