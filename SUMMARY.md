@@ -28,3 +28,7 @@
 * [Add Items To A Menu](add_items_to_a_menu.md)
 * [Building The Main Menu](building_the_main_menu.md)
 
+## Products
+
+* [Products\(Description\)](products/products_description.md)
+
