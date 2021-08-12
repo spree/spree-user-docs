@@ -6,7 +6,8 @@
 
 ---
 
-* [configuring\_roles](configuring_roles.md)
+* [Configuration](configuration-1.md)
+* [Taxes](configuring_roles.md)
 * [configuring\_store\_credit\_categories](configuring_store_credit_categories.md)
 * [configuring\_store\_order\_notifications](configuring_store_order_notifications.md)
 * [configuring\_taxes](configuring_taxes.md)
