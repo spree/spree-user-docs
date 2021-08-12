@@ -24,6 +24,7 @@
 
 ---
 
+* [Navigation \(Description\)](navigation-description.md)
 * [Creating A New Menu](creating_a_new_menu.md)
 * [Add Items To A Menu](add_items_to_a_menu.md)
 * [Building The Main Menu](building_the_main_menu.md)
@@ -32,6 +33,7 @@
 
 ---
 
+* [Payments \(Description\)](payments-description.md)
 * [Payment Methods](payment-methods.md)
 * [Payment States](payment-states.md)
 
@@ -46,4 +48,11 @@
 * [Untitled](products/untitled-1.md)
 * [Untitled](products/untitled.md)
 * [Untitled](products/untitled-6.md)
+
+## Promotions
+
+* [Promotions \(Description\)](promotions/promotions-description.md)
+* [Creating a New Promotion](promotions/creating-a-new-promotion.md)
+* [Editing Promotion](promotions/editing-promotion.md)
+* [Removing Promotion](promotions/removing-promotion.md)
 
