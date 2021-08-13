@@ -1,6 +1,6 @@
 # Spree Multi Store
 
-### [Introduction](https://guides.spreecommerce.org/user/configuration/configuring_multi_stores.html#introduction) <a id="introduction"></a>
+### Introduction <a id="introduction"></a>
 
 Spree 3.5 was released with Multi Store support. This means that, in a single Spree Admin panel, you can control multiple shops based on Spree. You can assign domains and manage orders; there is also an option to personalize products for a certain shop described [here](https://guides.spreecommerce.org/user/configuration/configuring_multi_stores.html#product-and-shop-currency).
 
@@ -14,7 +14,7 @@ Open the Spree Admin panel and, under the Configurations tab, search for Stores.
 
 To make it even easier, one site is already set up to your current default. All you need to do is press the [Edit](https://guides.spreecommerce.org/user/configuration/configuring_multi_stores.html#edit-store) button in order to personalize it to your needs.
 
-#### [Create New Store](https://guides.spreecommerce.org/user/configuration/configuring_multi_stores.html#create-new-store) <a id="create-new-store"></a>
+#### Create New Store <a id="create-new-store"></a>
 
 In the right upper corner, press the _New Store_ button \(as shown in the screenshot above\).
 
@@ -32,7 +32,7 @@ Once you have completed these fields, press **Create**, and your multi store is 
 
 ![Multi stores](https://guides.spreecommerce.org/static/94e81e96cc3c919501922d1e34f5ae28/5c8dc/spree_multi_stores.jpg)Multi stores
 
-#### [Edit Store](https://guides.spreecommerce.org/user/configuration/configuring_multi_stores.html#edit-store) <a id="edit-store"></a>
+#### Edit Store <a id="edit-store"></a>
 
 In order to Edit an existing Store, simply press **Edit** button next to the Default and Delete.
 
@@ -44,7 +44,7 @@ Inside, you will find the same values as described above in [Create New Store](h
 
 Once you have finished editing, press the **Update** button.
 
-#### [Customization](https://guides.spreecommerce.org/user/configuration/configuring_multi_stores.html#customization) <a id="customization"></a>
+#### Customization <a id="customization"></a>
 
 Each store can have its own layout\(s\). These should be located in your site’s theme extension in the app/views/spree/layouts/store\#code/ directory. So, if you have a store with a code of “alpha”, you should store its default layout in app/views/spree/layouts/alpha/spree\_application.html.erb.
 
@@ -56,7 +56,7 @@ If the user places an order on any of your sites, you can observe which store pr
 
 ![Orders Stores](https://guides.spreecommerce.org/static/5c98c6b62b8a0a5419c7a127b764fbad/03ffe/order_stores.jpg)Orders Stores
 
-#### [Future development](https://guides.spreecommerce.org/user/configuration/configuring_multi_stores.html#future-development) <a id="future-development"></a>
+#### Future development <a id="future-development"></a>
 
 In versions of Spree later than approximately 4.0 or 4.1, two additional extensions should be included to the Spree Core in order to improve Multi Store management and possibilities.
 

@@ -5,7 +5,7 @@ order: 0
 
 # Analytics Tracker
 
-### [Introduction](https://guides.spreecommerce.org/user/configuration/configuring_analytics.html#introduction) <a id="introduction"></a>
+### Introduction <a id="introduction"></a>
 
 Understanding your site’s visitor traffic patterns is very important when it comes to planning your company’s marketing and growth strategies.
 

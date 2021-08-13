@@ -1,6 +1,6 @@
 # Return Authorization Reasons
 
-### [Introduction](https://guides.spreecommerce.org/user/configuration/configuring_return_authorization_reasons.html#introduction) <a id="introduction"></a>
+### Introduction <a id="introduction"></a>
 
 Before a return can be made, the user must describe the reason\(s\) why they wish to return their item\(s\). This is the place where you can create and name these reasons for your store.
 
@@ -14,7 +14,7 @@ Input the name that will be present during the Return process and click the **Cr
 
 ![New RMA Reason created](https://guides.spreecommerce.org/static/6e85d131eb2e7c4b33e46888e6dafedf/b4d30/new_rma_reason_created.jpg)New RMA Reason created
 
-### [Deleting and Editing RMA Reasons](https://guides.spreecommerce.org/user/configuration/configuring_return_authorization_reasons.html#deleting-and-editing-rma-reasons) <a id="deleting-and-editing-rma-reasons"></a>
+### Deleting and Editing RMA Reasons <a id="deleting-and-editing-rma-reasons"></a>
 
 To make an additional Edit to an RMA Reason, simply click the **Edit** button. You can now change the name of a reason or deactivate it.
 

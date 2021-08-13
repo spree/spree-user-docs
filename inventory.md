@@ -4,15 +4,15 @@ title: Store Credit Categories
 
 # Inventory
 
-### [Introduction](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#introduction) <a id="introduction"></a>
+### Introduction <a id="introduction"></a>
 
 The Spree store gives you a great deal of leverage in managing your business’ inventory. You can set up multiple [stock locations](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#stock-locations), each of which represents a physical location where you store your products for delivery to customers. As you add new products and make sales, [stock movements](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#stock-movements) are recorded. You can receive stock from a supplier, and even move products from one stock location to another by recording [stock transfers](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#stock-transfers). All of this helps to keep your inventorying manageable and current.
 
-### [Stock Locations](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#stock-locations) <a id="stock-locations"></a>
+### Stock Locations <a id="stock-locations"></a>
 
 To reach the Stock Locations management panel, go to your Admin Interface, click “Configuration”, then click “Stock Locations”. Your store should already have at least one default stock location. If you keep all of your inventory in one place, this may be all you need.
 
-#### [Creating a New Stock Location](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#creating-a-new-stock-location) <a id="creating-a-new-stock-location"></a>
+#### Creating a New Stock Location <a id="creating-a-new-stock-location"></a>
 
 To add a stock location to your store, click the “New Stock Location” button.
 
@@ -26,7 +26,7 @@ Here, you can input everything of relevance about your stock location: name, add
 
 Input the values for all of the fields, and click “Create” to add your new stock location.
 
-#### [Editing a Stock Location](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#editing-a-stock-location) <a id="editing-a-stock-location"></a>
+#### Editing a Stock Location <a id="editing-a-stock-location"></a>
 
 To edit a stock location, click the “Edit” icon next to it in the Stock Locations list.
 
@@ -34,7 +34,7 @@ To edit a stock location, click the “Edit” icon next to it in the Stock Loca
 
 Make the desired changes in the form and click “Update”.
 
-#### [Deleting a Stock Location](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#deleting-a-stock-location) <a id="deleting-a-stock-location"></a>
+#### Deleting a Stock Location <a id="deleting-a-stock-location"></a>
 
 To remove a stock location, click the “Delete” icon next to it in the Stock Locations list.
 
@@ -42,7 +42,7 @@ To remove a stock location, click the “Delete” icon next to it in the Stock 
 
 Click “OK” to confirm the deletion.
 
-### [Stock Movements](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#stock-movements) <a id="stock-movements"></a>
+### Stock Movements <a id="stock-movements"></a>
 
 Note the “Stock Movements” link on the Stock Locations list.
 
@@ -52,7 +52,7 @@ Clicking this link will show you all of the stock movements that have taken plac
 
 Stock movements are actions that happen automatically through the normal management and functioning of your store. You do not have to \(and in fact, can not\) manually manipulate them. This is just a way for you to see which things are moving in and out of a particular stock location.
 
-### [Stock Transfers](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#stock-transfers) <a id="stock-transfers"></a>
+### Stock Transfers <a id="stock-transfers"></a>
 
 If you have more than one stock location, your Spree store offers you a way to record the movement of inventory from one location to another: the stock transfer.
 

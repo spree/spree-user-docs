@@ -1,10 +1,10 @@
 # Reimbursement Types
 
-### [Introduction](https://guides.spreecommerce.org/user/configuration/configuring_reimbursement_types.html#introduction) <a id="introduction"></a>
+### Introduction <a id="introduction"></a>
 
 To make it easier for you when you need to make a reimbursement, there are various reimbursement types that help you define what kind of return to give to the customer \(e.g store credit, credit card or exchange for a new item\).
 
-### [Creating a Reimbursement Type](https://guides.spreecommerce.org/user/configuration/configuring_reimbursement_types.html#creating-a-reimbursement-type) <a id="creating-a-reimbursement-type"></a>
+### Creating a Reimbursement Type <a id="creating-a-reimbursement-type"></a>
 
 You simply open the **Configuration** tab and press **Reimbursement Types**. Now, you can see all previously set up types, with the possibility to add a new one.
 
@@ -22,7 +22,7 @@ You now only have to add a name and choose the type that you would like to have 
 
 Now simply check the **Active** checkbox and press the **Create** button to create a brand new reimbursement type in your shop!
 
-### [Editing and Deleting an existing Reimbursement Type](https://guides.spreecommerce.org/user/configuration/configuring_reimbursement_types.html#editing-and-deleting-an-existing-reimbursement-type) <a id="editing-and-deleting-an-existing-reimbursement-type"></a>
+### Editing and Deleting an existing Reimbursement Type <a id="editing-and-deleting-an-existing-reimbursement-type"></a>
 
 Once you have created a type that you would like to edit, you can press the **Edit Icon** on the right side of the type’s name.
 
