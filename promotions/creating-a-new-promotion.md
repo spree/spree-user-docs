@@ -2,7 +2,9 @@
 
 To create a new promotion, click the “New Promotion” button.
 
-![New Promotion](https://guides.spreecommerce.org/static/e7df21ebc62f1705ddf9036d8b2339a1/03ffe/new_promotion.jpg)New Promotion
+New Promotion
+
+![New Promotion](https://guides.spreecommerce.org/static/e7df21ebc62f1705ddf9036d8b2339a1/03ffe/new_promotion.jpg)
 
 The page that is shown allows you to set several standard options that apply to all promotions. Each is explained below.
 
