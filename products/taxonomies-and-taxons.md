@@ -138,7 +138,5 @@ Press “OK” to confirm.
 
 To associate a product with one or more taxons, go to the Admin Interface, and click the “Products” tab. Locate the product you want to edit and click its “Edit” icon. Select the taxons for the product in the Taxons field.
 
-![Add Taxons to a Product](../.gitbook/assets/image%20%28114%29.png)
-
 ![Add Taxons to a Product](https://guides.spreecommerce.org/static/5fe199e6b4e26d94a2d86eb479bb30c9/f8495/add_taxons_to_product.jpg)
 
