@@ -19,7 +19,7 @@
 
 ## Navigation
 
-* [Navigation \(Description\)](navigation/navigation_description.md)
+* [Navigation \(Description\)](navigation/navigation-description.md)
 * [Creating A New Menu](navigation/creating_a_new_menu.md)
 * [Add Items To A Menu](navigation/add_items_to_a_menu.md)
 * [Building The Main Menu](navigation/building_the_main_menu.md)
