@@ -11,7 +11,7 @@ You will learn how to:
 * [Configure Payment Methods](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyUkWAFBOi6sIzBt77/payment-methods)
 * [Configure Shipping Methods](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyUkWAFBOi6sIzBt77/shipments/shipping-methods)
 * [Configure Inventory](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/inventory)
-* [Configure Reimbursement Types](https://guides.spreecommerce.org/user/configuration/configuring_reimbursement_types.html)
-* [Configure Return Authorization Reasons](https://guides.spreecommerce.org/user/configuration/configuring_return_authorization_reasons.html)
-* [Set Store Credit Categories](https://guides.spreecommerce.org/user/configuration/configuring_store_credit_categories.html)
+* [Configure Reimbursement Types](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/reimbursement_types)
+* [Configure Return Authorization Reasons](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyYlEvMm9Am0zewwnK/return_authorization_reasons)
+* [Set Store Credit Categories](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyYlEvMm9Am0zewwnK/store_credit_categories)
 
