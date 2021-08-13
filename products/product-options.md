@@ -26,7 +26,7 @@ We’re going to need two Option Values \(Large and Small\) for the Size Option 
 
 “Name” is easy; write “Large” for the first and “Small” for the second. Let’s input “24-ounce cup” in the “Display” field for the Large Option Value and “16-ounce cup” for the Small Option Value.
 
-![Completed Option Values](../.gitbook/assets/image%20%2893%29.png)
+![Completed Option Values](../.gitbook/assets/image%20%2895%29.png)
 
 When you click “Update”, Spree saves the two new Option Values, associates them with the Size Option Type, and takes you to the list of all Option Types.
 
@@ -36,7 +36,7 @@ Our Spree application now knows that we have an Option Type with corresponding O
 
 At the bottom of the Product edit form is a text box labeled “Option Types”. When you click in this box, a drop-down appears with all of the Option Types you have defined for your store. All you have to do is click one or more of them to associate them with your Product.
 
-![Option Types Dropdown List](../.gitbook/assets/image%20%2890%29.png)
+![Option Types Dropdown List](../.gitbook/assets/image%20%2892%29.png)
 
 Don’t forget to click “Update” to save your changes.
 
