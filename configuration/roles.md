@@ -8,19 +8,19 @@ Roles are used to define users’ permissions on your website. This option gives
 
 To create a new role, click the **New Role** button that is placed in the upper right corner of the page.
 
-![New Role button](../.gitbook/assets/image%20%2835%29.png)
+![New Role button](../.gitbook/assets/image%20%2840%29.png)
 
 Simply input the name for the certain role and press the **Update** button.
 
-![New Role inside](../.gitbook/assets/image%20%2828%29.png)
+![New Role inside](../.gitbook/assets/image%20%2830%29.png)
 
 When the role is created, you can still edit the name by pressing the **Edit** button.
 
-![Edit Role](../.gitbook/assets/image%20%2831%29.png)
+![Edit Role](../.gitbook/assets/image%20%2834%29.png)
 
 You can also delete it by pressing the **Delete** button.
 
-![Delete Role](../.gitbook/assets/image%20%2834%29.png)
+![Delete Role](../.gitbook/assets/image%20%2837%29.png)
 
 ### [Assigning a Role to a User](roles.md#assigning-a-role-to-a-user) <a id="assigning-a-role-to-a-user"></a>
 
