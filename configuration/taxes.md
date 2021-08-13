@@ -10,10 +10,10 @@ As you undoubtedly already know, it can be challenging to manage taxation settin
 
 There are a few concepts you need to understand in order to configure your site adequately:
 
-* [Tax Categories](https://guides.spreecommerce.org/user/configuration/configuring_taxes.html#tax-categories)
-* [Zones](https://guides.spreecommerce.org/user/configuration/configuring_taxes.html#zones)
-* [Tax Rates](https://guides.spreecommerce.org/user/configuration/configuring_taxes.html#tax-rates)
-* [Tax Settings](https://guides.spreecommerce.org/user/configuration/configuring_taxes.html#tax-settings)
+* [Tax Categories](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/v/master/configuration/taxes#tax-categories)
+* [Zones](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-Mgyq9PZ5ahv_G-_lZ33/v/master/configuration/taxes#zones)
+* [Tax Rates](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-Mgyq9PZ5ahv_G-_lZ33/v/master/configuration/taxes#tax-rates)
+* [Tax Settings](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-Mgyq9PZ5ahv_G-_lZ33/v/master/configuration/taxes#tax-settings)
 
 ### Tax Categories <a id="tax-categories"></a>
 
