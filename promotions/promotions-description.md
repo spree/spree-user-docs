@@ -6,7 +6,7 @@ To reach the Promotions panel, go to your Admin Interface and click the “Promo
 
 In the Promotions panel, you can undertake multiple actions described here:
 
-* [Create Promotions](https://guides.spreecommerce.org/user/promotions/creating_promotions.html)
-* [Edit Promotions](https://guides.spreecommerce.org/user/promotions/editing_promotions.html)
-* [Remove Promotions](https://guides.spreecommerce.org/user/promotions/removing_promotions.html)
+* [Create Promotions](creating-a-new-promotion.md)
+* [Edit Promotions](editing-promotion.md)
+* [Remove Promotions](removing-promotion.md)
 
