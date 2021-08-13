@@ -23,7 +23,7 @@ Pictured above is an order that is ripe for processing. The current order State 
 
 If you click either the Order Number or the “Edit” icon, you will open the order in Edit mode. Instead, click the “Balance Due” payment state to open the order’s payment info page.
 
-![Payment to Process](../.gitbook/assets/image%20%2886%29.png)
+![Payment to Process](../.gitbook/assets/image%20%2887%29.png)
 
 As you can see above, we have only a single payment to process, for the full amount \($131.93\). Processing this payment is literally a click away; just click on the “Capture” icon next to the payment.
 
@@ -41,7 +41,7 @@ Now, when you visit the Order Summary, you can see that there is a new “Ship�
 
 Clicking this button moves the Shipment State from “Ready” to “Shipped”.
 
-![Order Marked Shipped](../.gitbook/assets/image%20%2889%29.png)
+![Order Marked Shipped](../.gitbook/assets/image%20%2890%29.png)
 
 The only thing that remains to do now is to click the “Edit” icon next to the tracking details line, and provide tracking info for the package\(s\). Click the “Save” icon to record this information.
 
