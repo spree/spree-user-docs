@@ -16,8 +16,8 @@
 * [Return Authorization Reasons](return-authorization-reasons.md)
 * [Roles](roles.md)
 * [Spree Multi Store](spree-multi-store.md)
-* [Store Credit Categories](store_credit_categories.md)
-* [Store Order Notifications](store_order_notifications.md)
+* [Store Credit Categories](store-credit-categories.md)
+* [Store Order Notifications](store-order-notifications.md)
 
 ## Navigation
 
