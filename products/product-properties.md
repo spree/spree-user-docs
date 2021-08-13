@@ -4,7 +4,7 @@
 
 Depending on the nature of your store and the products you sell, you may want to add “Properties” to your product descriptions. Properties are typically used to provide additional information about a product to help the customer make a better purchase decision. Here is an example of how a product’s properties would display on the customer-facing area of a store:
 
-![New Product Variant](../.gitbook/assets/image%20%2886%29.png)
+![New Product Variant](../.gitbook/assets/image%20%2887%29.png)
 
 #### [Adding a Product Property](product-properties.md#adding-a-product-property) <a id="adding-a-product-property"></a>
 
@@ -23,7 +23,7 @@ Follow these steps to add a Product Property. In this example, we are going to a
 
 Now, when you navigate to the product’s page in your store, you will see the new Country of Origin property in the “Properties” list.
 
-![Properties List](../.gitbook/assets/image%20%2893%29.png)
+![Properties List](../.gitbook/assets/image%20%2895%29.png)
 
 You can add as many “Product Properties” to an individual “Product” as you like - just use the “Add Product Properties” button on the Product Properties page for an individual product.
 
