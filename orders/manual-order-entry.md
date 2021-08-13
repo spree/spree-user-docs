@@ -1,6 +1,6 @@
 # Manual Order Entry
 
-### [Introduction](https://guides.spreecommerce.org/user/orders/entering_orders.html#introduction) <a id="introduction"></a>
+### [Introduction](manual-order-entry.md#introduction) <a id="introduction"></a>
 
 An order can be created in one of two ways:
 
@@ -9,7 +9,7 @@ An order can be created in one of two ways:
 
 This guide covers how to create a manual order in the Admin Panel.
 
-### [Add Products](https://guides.spreecommerce.org/user/orders/entering_orders.html#add-products) <a id="add-products"></a>
+### [Add Products](manual-order-entry.md#add-products) <a id="add-products"></a>
 
 To create a new order manually, go into the Admin Interface, click the “Orders” tab and then click the “New Order” button.
 
@@ -29,7 +29,7 @@ The system creates the order and shows you the line items in it.
 
 Follow the same steps to add more products to the order.
 
-### [Customer Details](https://guides.spreecommerce.org/user/orders/entering_orders.html#customer-details) <a id="customer-details"></a>
+### [Customer Details](manual-order-entry.md#customer-details) <a id="customer-details"></a>
 
 Click the “Customer” link. You can either select a name from the “Customer Search” field if the customer has ordered from you before, or you can enter the customer’s email address in the “Email” field of the “Account” section. The setting for “Guest Checkout” will automatically change accordingly.
 
@@ -39,7 +39,7 @@ Enter the customer’s billing address and the shipping address for the order. Y
 
 Click the “Update” button.
 
-### [Shipments](https://guides.spreecommerce.org/user/orders/entering_orders.html#shipments) <a id="shipments"></a>
+### [Shipments](manual-order-entry.md#shipments) <a id="shipments"></a>
 
 After you input the customer information, you might want to choose a shipping method. When you press the “Update” button, the page will reload in the “Shipments” tab.
 
@@ -55,17 +55,17 @@ Click the “Shipping Method” drop-down menu, and make your selection.
 
 Click the “Save” icon to confirm your change. Your Spree site will re-calculate the shipping, any relevant adjustments, and the total for your order.
 
-### [Adjustments](https://guides.spreecommerce.org/user/orders/entering_orders.html#adjustments) <a id="adjustments"></a>
+### [Adjustments](manual-order-entry.md#adjustments) <a id="adjustments"></a>
 
 The Spree shopping cart will automatically add the cost of the Shipping Method to your order as an adjustment. You can change or remove this.
 
-#### [Editing Adjustments](https://guides.spreecommerce.org/user/orders/entering_orders.html#editing-adjustments) <a id="editing-adjustments"></a>
+#### [Editing Adjustments](manual-order-entry.md#editing-adjustments) <a id="editing-adjustments"></a>
 
 To edit an existing order adjustment, just click the “Adjustments” link in the order summary, then click the “Edit” icon next to the adjustment in the Adjustments list.
 
 ![Edit Adjustment Icon](https://guides.spreecommerce.org/static/db8e7896225d614987a58fb3811c22d6/71af9/edit_adjustment_icon.jpg)Edit Adjustment Icon
 
-#### [Deleting Adjustments](https://guides.spreecommerce.org/user/orders/entering_orders.html#deleting-adjustments) <a id="deleting-adjustments"></a>
+#### [Deleting Adjustments](manual-order-entry.md#deleting-adjustments) <a id="deleting-adjustments"></a>
 
 To remove an adjustment, click the “Delete” icon next to it in the Adjustments list.
 
@@ -73,7 +73,7 @@ To remove an adjustment, click the “Delete” icon next to it in the Adjustmen
 
 Confirm the deletion by clicking “OK”.
 
-#### [Opening and Closing Adjustments](https://guides.spreecommerce.org/user/orders/entering_orders.html#opening-and-closing-adjustments) <a id="opening-and-closing-adjustments"></a>
+#### [Opening and Closing Adjustments](manual-order-entry.md#opening-and-closing-adjustments) <a id="opening-and-closing-adjustments"></a>
 
 Some types of adjustments - such as tax and shipping - may re-calculate as the order changes; for example, as new products are added to it. If you want to be sure that the amount of an adjustment will remain the same, you can lock them. This is also known as closing the adjustments.
 
@@ -83,7 +83,7 @@ To open or close all of the adjustments in an order, just click the “Open All 
 
 ![Mass Open and Close Adjustments](https://guides.spreecommerce.org/static/f80e0849787b3f9bebd47a80d3fba0f9/71af9/mass_open_close_adjustments.jpg)Mass Open and Close Adjustments
 
-#### [Adding Adjustments](https://guides.spreecommerce.org/user/orders/entering_orders.html#adding-adjustments) <a id="adding-adjustments"></a>
+#### [Adding Adjustments](manual-order-entry.md#adding-adjustments) <a id="adding-adjustments"></a>
 
 You can also add further adjustments - positive or negative - to the order to account for things like handling charges, store credits, etc. To add a new adjustment, click the “New Adjustment” button.
 
@@ -97,7 +97,7 @@ For a better understanding of adjustments, please read the [Developer Adjustment
 
 Once you have finished all of the changes you want in the order’s Adjustments, click “Continue”.
 
-### [Payments](https://guides.spreecommerce.org/user/orders/entering_orders.html#payments) <a id="payments"></a>
+### [Payments](manual-order-entry.md#payments) <a id="payments"></a>
 
 If you are manually entering this order, it is presumed that you have received payment either in person, on the phone, or through some other non-website means. You can manually enter payments using any of your site’s configured [payment methods](https://guides.spreecommerce.org/user/payments/payment_methods.html).
 
