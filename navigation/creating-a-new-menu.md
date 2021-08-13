@@ -27,7 +27,9 @@ Once you have familiarized yourself with the options above, populate each field 
 
 Upon creating your first menu, you will be presented with a Menu Items Area; this is where you organize the links of your menu.
 
-![Menu Items Area](https://guides.spreecommerce.org/static/84fb50bafe1ba1fc76c17ef17d6e25cd/03ffe/menu_items_area.jpg)Menu Items Area
+Menu Items Area
+
+![](../.gitbook/assets/image%20%283%29.png)
 
 View the [Add Items To A Menu](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/add_items_to_a_menu) page of the Navigation documentation to begin adding items to your new menu.
 
