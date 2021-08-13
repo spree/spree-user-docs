@@ -12,7 +12,9 @@ To get start adding items to your menu click the Add New Menu Item button found 
 
 You will be presented with three panels, **Settings**, **Public Details** and **Link Settings**.
 
-![New Menu Item Page](https://guides.spreecommerce.org/static/cb22f1cf0a31a8e61264c55f1471ee7e/03ffe/new_menu_item_page.jpg)New Menu Item Page
+
+
+![New Menu Item Page](../.gitbook/assets/image%20%285%29.png)
 
 ## Settings Panel <a id="settings-panel"></a>
 
