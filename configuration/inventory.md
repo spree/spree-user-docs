@@ -68,7 +68,7 @@ Select a product variant from the “Variant” drop-down list and enter the qua
 
 ![Stock Transfer Readied](../.gitbook/assets/image%20%287%29.png)
 
-If you try to transfer an item that you do not have in stock at your Source location, the Spree system will record a stock transfer with a quantity of 0.
+{% hint style="danger" %}
 
 The new stock transfer is readied. Once you have added all of the items you want to transfer, click the “Transfer Stock” button.
 
