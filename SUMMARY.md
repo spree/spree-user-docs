@@ -4,29 +4,25 @@
 
 ## Configuration
 
----
-
-* [Configuration\(Description\)](configuration_description.md)
-* [Taxes](taxes.md)
-* [Inventory](inventory.md)
-* [Zones, Countries, and States](zones-countries-states.md)
-* [Analytics Tracker](analytics-tracker.md)
-* [Mail Methods](mail-methods.md)
-* [Reimbursement Types](reimbursement_types.md)
-* [Return Authorization Reasons](return-authorization-reasons.md)
-* [Roles](roles.md)
-* [Spree Multi Store](spree-multi-store.md)
-* [Store Credit Categories](store-credit-categories.md)
-* [Store Order Notifications](store-order-notifications.md)
+* [Configuration\(Description\)](configuration/configuration_description.md)
+* [Taxes](configuration/taxes.md)
+* [Inventory](configuration/inventory.md)
+* [Zones, Countries, and States](configuration/zones-countries-states.md)
+* [Analytics Tracker](configuration/analytics-tracker.md)
+* [Mail Methods](configuration/mail-methods.md)
+* [Reimbursement Types](configuration/reimbursement_types.md)
+* [Return Authorization Reasons](configuration/return-authorization-reasons.md)
+* [Roles](configuration/roles.md)
+* [Spree Multi Store](configuration/spree-multi-store.md)
+* [Store Credit Categories](configuration/store-credit-categories.md)
+* [Store Order Notifications](configuration/store-order-notifications.md)
 
 ## Navigation
 
----
-
-* [Navigation \(Description\)](navigation_description.md)
-* [Creating A New Menu](creating_a_new_menu.md)
-* [Add Items To A Menu](add_items_to_a_menu.md)
-* [Building The Main Menu](building_the_main_menu.md)
+* [Navigation \(Description\)](navigation/navigation_description.md)
+* [Creating A New Menu](navigation/creating_a_new_menu.md)
+* [Add Items To A Menu](navigation/add_items_to_a_menu.md)
+* [Building The Main Menu](navigation/building_the_main_menu.md)
 
 ## Orders
 
@@ -40,11 +36,9 @@
 
 ## Payments
 
----
-
-* [Payments \(Description\)](payments-description.md)
-* [Payment Methods](payment-methods.md)
-* [Payment States](payment-states.md)
+* [Payments \(Description\)](payments/payments-description.md)
+* [Payment Methods](payments/payment-methods.md)
+* [Payment States](payments/payment-states.md)
 
 ## Products
 
