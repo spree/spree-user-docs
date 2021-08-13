@@ -2,7 +2,7 @@
 
 ### Introduction <a id="introduction"></a>
 
-This part of the guide assumes you have created a menu and are now ready to add some items to the menu items area pictured below; if this is not the case, [click here](https://guides.spreecommerce.org/user/navigation/creating_menus.html) to view the guide to creating a new menu.
+This part of the guide assumes you have created a menu and are now ready to add some items to the menu items area pictured below; if this is not the case, [click here](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/creating_a_new_menu) to view the guide to creating a new menu.
 
 ![Menu Items Area](https://guides.spreecommerce.org/static/84fb50bafe1ba1fc76c17ef17d6e25cd/03ffe/menu_items_area.jpg)Menu Items Area
 
