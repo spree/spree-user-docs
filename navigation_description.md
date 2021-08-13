@@ -4,7 +4,7 @@ The Navigation section of the Admin / Content interface will allow you to create
 
 In this section of the documentation, you will learn how to:
 
-* [Create A Menu](https://guides.spreecommerce.org/user/navigation/creating_menus.html)
-* [Add Items To A Menu](https://guides.spreecommerce.org/user/navigation/add_menu_items.html)
-* [Build The Main Menu](https://guides.spreecommerce.org/user/navigation/building_the_main_menu.html)
+* [Create A Menu](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/creating_a_new_menu)
+* [Add Items To A Menu](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/add_items_to_a_menu)
+* [Build The Main Menu](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/building_the_main_menu)
 
