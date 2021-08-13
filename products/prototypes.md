@@ -2,11 +2,11 @@
 
 ### [Introduction](prototypes.md#introduction) <a id="introduction"></a>
 
-A Prototype is like a Product blueprint; it’s useful for helping you add a group of similar new products to your store more quickly. The general procedure is that you create a Prototype which is associated with certain [Option Types](https://guides.spreecommerce.org/user/products/product_options.html) and [Properties](https://guides.spreecommerce.org/user/products/product_properties.html); you then create products based on that Prototype, and only need to fill in the values for those Option Types and Properties.
+A Prototype is like a Product blueprint; it’s useful for helping you add a group of similar new products to your store more quickly. The general procedure is that you create a Prototype which is associated with certain [Option Types](product-options.md) and [Properties](product-properties.md); you then create products based on that Prototype, and only need to fill in the values for those Option Types and Properties.
 
 Imagine that you’ve just received a new shipment of picture frames from your supplier. Your new stock encompasses a variety of brands, sizes, colors, and materials, but they are all basically the same type of product. This is a prime use case for prototypes.
 
-This guide presumes you have already created the [Option Types](https://guides.spreecommerce.org/user/products/product_options.html) and [Properties](https://guides.spreecommerce.org/user/products/product_properties.html) you need for your new prototype. If you haven’t, you should do that first before proceeding.
+This guide presumes you have already created the [Option Types](product-options.md) and [Properties](product-properties.md) you need for your new prototype. If you haven’t, you should do that first before proceeding.
 
 #### [Creating a Prototype](prototypes.md#creating-a-prototype) <a id="creating-a-prototype"></a>
 
