@@ -4,10 +4,10 @@ Spree uses a very flexible and effective system to calculate shipping. This set 
 
 To properly leverage Spree’s shipping system’s flexibility, you must understand a few key concepts:
 
-* [Shipping Categories](https://guides.spreecommerce.org/user/shipments/shipping_categories.html)
-* [Zones](https://guides.spreecommerce.org/user/shipments/zones.html)
-* [Calculators](https://guides.spreecommerce.org/user/shipments/calculators.html) \(to determine shipping rates\)
-* [Shipping Methods](https://guides.spreecommerce.org/user/shipments/shipping_methods.html)
+* [Shipping Categories](shipping-categories.md)
+* [Zones](zones.md)
+* [Calculators](calculators.md) \(to determine shipping rates\)
+* [Shipping Methods](shipping-methods.md)
 
-Let’s begin by understanding what [Shipping Categories](https://guides.spreecommerce.org/user/shipments/shipping_categories.html) are and how you can use them to differentiate products in your store.
+Let’s begin by understanding what [Shipping Categories](shipping-categories.md) are and how you can use them to differentiate products in your store.
 
