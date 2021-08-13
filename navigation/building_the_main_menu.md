@@ -29,7 +29,7 @@ In the image below you can see we now have two containers nested under the Women
 
 ![Menu Items Area](https://guides.spreecommerce.org/static/a631fec492a16ae107705da49316d956/03ffe/categories.jpg)Menu Items Area
 
-### [Adding Links To Containers](https://guides.spreecommerce.org/user/navigation/building_the_main_menu.html#adding-links-to-containers) <a id="adding-links-to-containers"></a>
+### Adding Links To Containers <a id="adding-links-to-containers"></a>
 
 #### Add A Link To Categories Container <a id="add-a-link-to-categories-container"></a>
 
