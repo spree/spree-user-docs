@@ -22,13 +22,13 @@ Now, you just need to wait for the package to be received at your location.
 
 Even a created Return Authorization can be edited or deleted, most commonly when the user changes his or her mind. As an Admin in your shop, you can still make additional changes to the Return action.
 
-![Return Edition](../.gitbook/assets/image%20%2887%29.png)
+![Return Edition](../.gitbook/assets/image%20%2888%29.png)
 
-![Return Delete](../.gitbook/assets/image%20%2890%29.png)
+![Return Delete](../.gitbook/assets/image%20%2891%29.png)
 
 Inside of the Return Authorization Edit, you’ll find the same layout as for creating one. Just make your changes and press the **Update** button.
 
-![Return Edition Inside](../.gitbook/assets/image%20%2889%29.png)
+![Return Edition Inside](../.gitbook/assets/image%20%2890%29.png)
 
 ### [Processing Returns](returns.md#processing-returns) <a id="processing-returns"></a>
 
@@ -38,17 +38,17 @@ Once you receive a return package, you need to create a “Customer Return”. T
 
 Select which of the authorized return items were received or mark all of them by simply clicking the check box on the left-hand side of the product, and the [Stock Location](../products/creating-a-new-product.md) at which the item was received. You can also select whether the item that has been returned by the User is still **Resellable** or not. Once you are done, click the “Create” button.
 
-![Receive RMA Button](../.gitbook/assets/image%20%2891%29.png)
+![Receive RMA Button](../.gitbook/assets/image%20%2892%29.png)
 
 The return items are marked as accepted, and now you can create a reimbursement for the $24.14 you owe the customer.
 
-![RMA Received](../.gitbook/assets/image%20%2882%29.png)
+![RMA Received](../.gitbook/assets/image%20%2883%29.png)
 
 The reimbursement form will be populated according to your original reimbursement or exchange selections that were chosen in the return authorization form. You may now override the selected reimbursement type or exchange item, if required. If not, click the “Reimburse” button to create the refund.
 
-![Issue a Reimbursement](../.gitbook/assets/image%20%2883%29.png)
+![Issue a Reimbursement](../.gitbook/assets/image%20%2884%29.png)
 
 Your return-processing is complete! As you can see, there is $24.14 refund issued to the original credit card or store credits to the user’s account.
 
-![Reimbursement Complete](../.gitbook/assets/image%20%2886%29.png)
+![Reimbursement Complete](../.gitbook/assets/image%20%2887%29.png)
 
