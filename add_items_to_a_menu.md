@@ -26,7 +26,7 @@ A menu item code is an optional setting that allows you to identify your link or
 
 The image below shows how the Spree Main Menu uses two containers, one outlined in green and the second outlined in red, each container has a code that identifies the links nested inside are to be displayed in different formats.
 
-For more information on using the Spree Main Menu visit the [Building The Main Menu](https://guides.spreecommerce.org/user/navigation/building_the_main_menu.html) page.
+For more information on using the Spree Main Menu visit the [Building The Main Menu](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/building_the_main_menu) page.
 
 ![Contianers With Code](https://guides.spreecommerce.org/static/78b1518ea7d098c5abd37c5af62ea07f/03ffe/container_code.jpg)Contianers With Code
 
