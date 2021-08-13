@@ -6,7 +6,7 @@ The guides in this section will walk you through all of those configuration deci
 
 You will learn how to:
 
-* [Configure Taxes](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/taxes)
+* [Configure Taxes](configuration-description.md)
 * [Configure Zones](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyUkWAFBOi6sIzBt77/zones_countries_states)
 * [Configure Payment Methods](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyUkWAFBOi6sIzBt77/payment-methods)
 * [Configure Shipping Methods](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyUkWAFBOi6sIzBt77/shipments/shipping-methods)
