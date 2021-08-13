@@ -11,7 +11,7 @@ This operation will redirect you to a created copy of the product, it will also 
 
 ![Clonned Product Example](../.gitbook/assets/clo2.png)
 
-### [Editing](https://guides.spreecommerce.org/user/products/cloning_products.html#editing) <a id="editing"></a>
+### [Editing](cloning-products.md#editing) <a id="editing"></a>
 
 You may want to change the name of the product to remove the “COPY OF” text and to rename the permalink and SKU so it matches your product name.
 
