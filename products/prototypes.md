@@ -12,21 +12,21 @@ This guide presumes you have already created the [Option Types](product-options.
 
 To create a prototype, go to the Admin Interface and click “Products”, then “Prototypes”. Click the “New Prototype” button.
 
-![New Prototype Form](https://guides.spreecommerce.org/static/ab80a76c2319d4d758330fb459a478f8/03ffe/new_prototype.jpg)New Prototype Form
+![New Prototype Form](../.gitbook/assets/image%20%2897%29.png)
 
 Input a value for the “Name” field \(such as “Picture Frames”\), and choose the properties and options you want to associate with this type of product.
 
-![Filled-In Prototype Form](https://guides.spreecommerce.org/static/9674b69afc15a805e242a2418460db08/03ffe/picture_frame_prototype.jpg)Filled-In Prototype Form
+![Filled-In Prototype Form](../.gitbook/assets/image%20%2879%29.png)
 
 Click the “Create” button. You should now see your new prototype in the “Prototypes” list.
 
-![Prototypes List](https://guides.spreecommerce.org/static/0a2d966865e042eb3b5f200175e51e9f/b9b0e/prototypes.jpg)Prototypes List
+![Prototypes List](../.gitbook/assets/image%20%2882%29.png)
 
 ## [Using a Prototype to Create Products](prototypes.md#using-a-prototype-to-create-products) <a id="using-a-prototype-to-create-products"></a>
 
 To create a new product based on the new prototype, click “Products” from the Admin Interface, then click the “New Product” button. Select “Picture Frames” from the “Prototypes” drop-down menu.
 
-![Product From Prototype](https://guides.spreecommerce.org/static/e5388425368959d48b6ef7641d9ddb99/03ffe/product_from_prototype.jpg)Product From Prototype
+![Product From Prototype](../.gitbook/assets/image%20%28102%29.png)
 
 When you do so, the Spree system shows you values for both of the Option Types you entered, so that it can automatically create [Product Variants](creating-a-new-product.md#understanding-variants) for each of them.
 
@@ -34,7 +34,7 @@ Let’s create the Product and all Variants for the fictional “Hinkledink Pict
 
 Clicking the box next to an Option Type title will automatically check all of its Option Values for you.
 
-![Prototype Option Types](https://guides.spreecommerce.org/static/f786408fa0d2258b75fb4740dcc45bd2/03ffe/prototype_product_with_options.jpg)Prototype Option Types
+![Prototype Option Types](../.gitbook/assets/image%20%2878%29.png)
 
 Proceed with [creating the product](creating-a-new-product.md) as you would normally, adding any missing fields not supplied by the prototype.
 
