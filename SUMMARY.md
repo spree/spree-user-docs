@@ -4,13 +4,13 @@
 
 ## Configuration
 
-* [Configuration\(Description\)](configuration/configuration_description.md)
+* [Configuration\(Description\)](configuration/configuration-description.md)
 * [Taxes](configuration/taxes.md)
 * [Inventory](configuration/inventory.md)
 * [Zones, Countries, and States](configuration/zones-countries-states.md)
 * [Analytics Tracker](configuration/analytics-tracker.md)
 * [Mail Methods](configuration/mail-methods.md)
-* [Reimbursement Types](configuration/reimbursement_types.md)
+* [Reimbursement Types](configuration/reimbursement-types.md)
 * [Return Authorization Reasons](configuration/return-authorization-reasons.md)
 * [Roles](configuration/roles.md)
 * [Spree Multi Store](configuration/spree-multi-store.md)
@@ -26,10 +26,10 @@
 
 ## Orders
 
-* [Orders\(Description\)](orders/orders_description.md)
-* [Editing an Order](orders/editing_an_order.md)
-* [Manual Order Entry](orders/manual_order_entry.md)
-* [Order States](orders/order_states.md)
+* [Orders\(Description\)](orders/orders-description.md)
+* [Editing an Order](orders/editing-an-order.md)
+* [Manual Order Entry](orders/manual-order-entry.md)
+* [Order States](orders/order-states.md)
 * [Processing Orders](orders/processing-orders.md)
 * [Returns](orders/returns.md)
 * [Searching Orders](orders/searching-orders.md)
@@ -42,16 +42,16 @@
 
 ## Products
 
-* [Products\(Description\)](products/products_description.md)
-* [Cloning Products](products/cloning_products.md)
-* [Creating a New Product](products/creating_a_new_product.md)
-* [Deleting Products](products/deleting_products.md)
-* [Editing Products](products/editing_products.md)
-* [Product Options](products/product_options.md)
-* [Product Properties](products/product_properties.md)
+* [Products\(Description\)](products/products-description.md)
+* [Cloning Products](products/cloning-products.md)
+* [Creating a New Product](products/creating-a-new-product.md)
+* [Deleting Products](products/deleting-products.md)
+* [Editing Products](products/editing-products.md)
+* [Product Options](products/product-options.md)
+* [Product Properties](products/product-properties.md)
 * [Prototypes](products/prototypes.md)
-* [Searching Products](products/searching_products.md)
-* [Taxonomies and Taxons](products/taxonomies_and_taxons.md)
+* [Searching Products](products/searching-products.md)
+* [Taxonomies and Taxons](products/taxonomies-and-taxons.md)
 
 ## Promotions
 
