@@ -15,7 +15,7 @@
 * [Reimbursement Types](reimbursement_types.md)
 * [Return Authorization Reasons](return-authorization-reasons.md)
 * [Roles](roles.md)
-* [Spree Multi Store](spree_multi_store.md)
+* [Spree Multi Store](spree-multi-store.md)
 * [Store Credit Categories](store_credit_categories.md)
 * [Store Order Notifications](store_order_notifications.md)
 
