@@ -22,7 +22,9 @@ Search for Deleted Products
 
 To re-activate a deleted product, find the product in your inventory following the steps [above](deleting-products.md#viewing). Deleted products will only have the “Clone” icon next to them, whereas active products will have the “Edit”, “Clone”, and “Delete” icons next to them. Click the “Clone” icon to the right of the deleted product.
 
-![Clone a Deleted Product](https://guides.spreecommerce.org/static/09dd6a672e54320f2799aefe4d21176c/79ab3/clone_deleted_product.jpg)Clone a Deleted Product
+Clone a Deleted Product
+
+![Clone a Deleted Product](https://guides.spreecommerce.org/static/09dd6a672e54320f2799aefe4d21176c/79ab3/clone_deleted_product.jpg)
 
 This will create a copy of the product, which will now appear in your product inventory list as “COPY OF” with the product name appended afterward. A new permalink and SKU will also be created for the product. Follow the instructions from the [Cloning guide](cloning-products.md) to modify the information for this product.
 
