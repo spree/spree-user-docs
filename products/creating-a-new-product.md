@@ -10,7 +10,7 @@ The three mandatory fields \(“Name”, “Master Price”, and “Shipping Cat
 
 [Prototypes](prototypes.md) are a more complex topic and are covered in their own guide.
 
-### [Product Details](https://guides.spreecommerce.org/user/products/creating_products.html#product-details) <a id="product-details"></a>
+### [Product Details](creating-a-new-product.md#product-details) <a id="product-details"></a>
 
 After you click the “Create” button, the Spree application brings you to a more detailed product entry page, where you can input more information about your new product.§
 
@@ -39,7 +39,7 @@ After you click the “Create” button, the Spree application brings you to a m
 * **Meta Keywords** - These words are appended to the website’s keywords you established in the [Store Settings](https://guides.spreecommerce.org/user/configuration/configuring_multi_stores.html#edit-store) and can help improve your site’s search engine ratings, bringing you more web traffic. They should be words that are key to your new product.
 * **Meta Description** - The summary that someone sees when your product’s page is returned in a web search. It should be descriptive but not overly verbose.
 
-### [Images](https://guides.spreecommerce.org/user/products/creating_products.html#images) <a id="images"></a>
+### [Images](creating-a-new-product.md#images) <a id="images"></a>
 
 A store without products images would be pretty boring - and probably not garner a lot of sales. It would be very time-consuming to have to upload, crop, resize, and associate several photos to each product, if you had to do so manually. Luckily, Spree makes maintaining images of your products quick and painless.
 
@@ -55,7 +55,7 @@ You have the option to associate a photo only with a particular “Variant” \(
 
 When you click “Update”, not only is the product photo uploaded, it is automatically resized and cropped to fit your store’s requirements. It is associated with the correct versions of your product.
 
-### [Understanding Variants](https://guides.spreecommerce.org/user/products/creating_products.html#understanding-variants) <a id="understanding-variants"></a>
+### [Understanding Variants](creating-a-new-product.md#understanding-variants) <a id="understanding-variants"></a>
 
 Suppose that you sell drink tumblers in your store. All of the tumblers are made by the same manufacturer and have the same basic product specifications -such as materials used and machine washability rating but your inventory includes several options:
 
