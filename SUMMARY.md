@@ -9,7 +9,7 @@
 * [Configuration\(Description\)](configuration_description.md)
 * [Taxes](taxes.md)
 * [Inventory](inventory.md)
-* [Zones, Countries, and States](zones_countries_states.md)
+* [Zones, Countries, and States](zones-countries-states.md)
 * [Analytics Tracker](analytics_tracker.md)
 * [Mail Methods](mail_methods.md)
 * [Reimbursement Types](reimbursement_types.md)
