@@ -4,9 +4,7 @@
 
 To delete a product in your store, go into the Admin Interface and click the “Products” tab. A list of your store’s product inventory will appear. Find the product that you would like to delete and click the “Delete” icon on the right to remove it from your store.
 
-Deleting a Product
-
-![Deleting a Product](https://guides.spreecommerce.org/static/11933097c62c240cd1dff80b0a8972a2/75c6e/delete_products_icon.jpg)
+![Deleting a Product](../.gitbook/assets/del.png)
 
 A message will appear asking you to confirm that you want to delete the product. Click “OK”.
 
