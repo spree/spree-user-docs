@@ -12,7 +12,7 @@ As this has been extracted, please be sure to add [Spree Mail Settings](https://
 
 The configurable components of your Spree site are managed in the Mail Method Settings panel. You can reach this by going to the Admin Interface and clicking “Configuration” followed by “Mail Method Settings”.
 
-![Mail Method Settings](../.gitbook/assets/image%20%2821%29%20%281%29.png)
+![Mail Method Settings](../.gitbook/assets/image%20%2822%29.png)
 
 #### [Enable Mail Delivery](mail-methods.md#enable-mail-delivery) <a id="enable-mail-delivery"></a>
 
