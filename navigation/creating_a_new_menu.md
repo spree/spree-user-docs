@@ -6,7 +6,9 @@ To create a new menu in Spree, log into the admin and click the Content tab from
 
 Once you are in the menus area, you will see a button in the top right of the screen + Add New Menu, click this button to create your first menu.
 
-![Menus Page](https://guides.spreecommerce.org/static/1ec0126af73dd9181c4e1902e3c04116/03ffe/empty_menu_page.jpg)Menus Page
+Menus Page
+
+![](../.gitbook/assets/image.png)
 
 ### New Menu Options <a id="new-menu-options"></a>
 
