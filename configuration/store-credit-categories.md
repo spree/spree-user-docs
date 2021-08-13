@@ -24,7 +24,7 @@ The previously created Category is visible in the Store Credit Categories settin
 
 ![Category Edit](../.gitbook/assets/image%20%2848%29.png)
 
-![Category Delete](../.gitbook/assets/image%20%2852%29.png)
+![Category Delete](../.gitbook/assets/image%20%2853%29.png)
 
 You can now assign Store Credit to the users’ accounts. You can learn more about it [here](../users/editing-users.md)
 
