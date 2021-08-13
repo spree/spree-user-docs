@@ -2,7 +2,7 @@
 
 ### [Option Types and Option Values](product-options.md#option-types-and-option-values) <a id="option-types-and-option-values"></a>
 
-Option Types are a way to help distinguish products in your store from one another. They are particularly useful when you have many products that are basically of the same general category \(t-shirts or mugs, for example\) but with varying characteristics, such as color, size or logo.
+Option Types are a way to help distinguish products in your store from one another. They are particularly useful when you have many products that are basically of the same general category \(t-shirts or mugs, for example\) but with varying characteristics, such as color, size, or logo.
 
 For each Option Type, you will need to create one or more corresponding Option Values. If you create a “Size” Option Type, then you would need Option Values like “Small”, “Medium”, and “Large”.
 
@@ -32,7 +32,7 @@ When you click “Update”, Spree saves the two new Option Values, associates t
 
 #### [Associating Option Values with a Product](product-options.md#associating-option-values-with-a-product) <a id="associating-option-values-with-a-product"></a>
 
-Our Spree application now knows that we have an Option Type with corresponding Option Values,but it doesn’t know which of our products should have those Option Types. We have to explicitly tell it about those associations. We can do so either when we create a new Product \(if the options have already been created\), or when we edit an existing product.
+Our Spree application now knows that we have an Option Type with corresponding Option Values, but it doesn’t know which of our products should have those Option Types. We have to explicitly tell it about those associations. We can do so either when we create a new Product \(if the options have already been created\), or when we edit an existing product.
 
 At the bottom of the Product edit form is a text box labeled “Option Types”. When you click in this box, a drop-down appears with all of the Option Types you have defined for your store. All you have to do is click one or more of them to associate them with your Product.
 
