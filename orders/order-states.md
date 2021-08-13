@@ -1,10 +1,10 @@
 # Order States
 
-### [Introduction](https://guides.spreecommerce.org/user/orders/order_states.html#introduction) <a id="introduction"></a>
+### [Introduction](order-states.md#introduction) <a id="introduction"></a>
 
 A new order is initiated when a customer places a product in their shopping cart. The order then passes through several states before it is considered `complete`. The order states are listed below. An order cannot continue to the next state until the previous state has been successfully satisfied. For example, an order cannot proceed to the `delivery` state until the customer has provided their billing and shipping address for the order during the `address` state.
 
-### [Order States](https://guides.spreecommerce.org/user/orders/order_states.html#order-states) <a id="order-states"></a>
+### [Order States](order-states.md#order-states) <a id="order-states"></a>
 
 The states that an order passes through are as follows:
 
@@ -15,5 +15,5 @@ The states that an order passes through are as follows:
 * `confirm` - The order is ready for a final review by the customer before being processed.
 * `complete` - The order has successfully completed all of the previous states and is now being processed.
 
-The states described above are the default settings for a Spree store. You can customize the order states to suit your needs utilizing our API. This includes adding, removing, or changing the order of certain states. Customization details are provided in the [Checkout Flow API Guide](https://guides.spreecommerce.org/developer/customization/checkout.html#checkout-customization).
+The states described above are the default settings for a Spree store. You can customize the order states to suit your needs utilizing our API. This includes adding, removing, or changing the order of certain states. Customization details are provided in the [Checkout Flow API Guide](https://app.gitbook.com/@spark-solutions/s/spree-developer-documentation/customization/checkout).
 
