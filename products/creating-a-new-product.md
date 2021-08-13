@@ -108,31 +108,35 @@ Variants List
 
 ![Variants List](https://guides.spreecommerce.org/static/ac480c4387bf8dabddc2c75e492800a9/453c6/variants_list.jpg)
 
-### [Product Properties](https://guides.spreecommerce.org/user/products/creating_products.html#product-properties) <a id="product-properties"></a>
+### [Product Properties](creating-a-new-product.md#product-properties) <a id="product-properties"></a>
 
 You can set as many individual product properties as you like. These include things like the item’s country of manufacture, material\(s\) used, design style, etc. Typically, these are characteristics that do not change across variants of a product.
 
-You can read much more in-depth information about this feature in the [Product Properties Guide](https://guides.spreecommerce.org/user/products/product_properties.html).
+You can read much more in-depth information about this feature in the [Product Properties Guide](product-properties.md).
 
-### [Stock Management](https://guides.spreecommerce.org/user/products/creating_products.html#stock-management) <a id="stock-management"></a>
+### [Stock Management](creating-a-new-product.md#stock-management) <a id="stock-management"></a>
 
-As of Spree version 2.0, you now have much more granular control over how inventory is tracked through your store. You will learn more about stock locations in the [Stock Locations Guide](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html), but for now, it’s enough to understand that you enter the number of each product variant that you have at each of your individual stock locations.
+As of Spree version 2.0, you now have much more granular control over how inventory is tracked through your store. You will learn more about stock locations in the [Stock Locations Guide](../configuration/inventory.md), but for now, it’s enough to understand that you enter the number of each product variant that you have at each of your individual stock locations.
 
-Let’s assume that you have two stock locations - your main New York warehouse and your satellite Detroit warehouse. Refer to the instructions on creating stock locations in the [Stock Locations Guide](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#create-a-new-stock-location) to add your warehouses.
+Let’s assume that you have two stock locations - your main New York warehouse and your satellite Detroit warehouse. Refer to the instructions on creating stock locations in the [Stock Locations Guide](../configuration/inventory.md) to add your warehouses.
 
 Now, go back to the Tumblers product page, and click the “Stock Management” link.
 
-![Stock Management Page](https://guides.spreecommerce.org/static/c504f45511f32bfd23c112513e950860/9eded/stock_management.jpg)Stock Management Page
+Stock Management Page
+
+![Stock Management Page](https://guides.spreecommerce.org/static/c504f45511f32bfd23c112513e950860/9eded/stock_management.jpg)
 
 For this guide, let’s say we want to say that we have 7 of our tumbler variant in the New York warehouse, and 3 in Detroit. To accomplish this, change the quantity to 7, select “New York Warehouse” from the “Stock Location” drop-down list, and select “large-blue-stars” from the “Variant” drop-down list. Click the “Add Stock button”.
 
 The “Stock Location Info” table will update, showing you that there are 7 of these items in the New York warehouse. Repeat these steps, adding 3 tumblers from the Detroit warehouse.
 
-![Stock Location Info](https://guides.spreecommerce.org/static/daf5bda47507ec7d33ca8e0109760fdf/f842d/stock_location_info.jpg)Stock Location Info
+Stock Location Info
+
+![Stock Location Info](https://guides.spreecommerce.org/static/daf5bda47507ec7d33ca8e0109760fdf/f842d/stock_location_info.jpg)
 
 Your Stock Location Info table should now look like the one pictured above.
 
 “Backorderable” may or may not be checked for your individual Stock Locations, depending on how you configured them. Each Stock Location has defaults for this value, but you can change it on a variant-by-variant basis in this dialog.
 
-You should be sure to read the [Stock Locations](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#stock-locations) and [Stock Movements](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#stock-movements) guides for further information on managing your store’s inventory.
+You should be sure to read the [Stock Locations](../configuration/inventory.md) and [Stock Movements](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#stock-movements) guides for further information on managing your store’s inventory.
 
