@@ -13,11 +13,11 @@ There will be times when you need to edit orders that are placed in your store. 
 
 First, go to your Admin Interface. Click the “Orders” tab, and [locate the order](searching-orders.md) you want to change.
 
-![Edit Order Link](https://guides.spreecommerce.org/static/2a19550adb31a8a2c7a73e01a2ae669e/03ffe/edit_order_link.jpg)Edit Order Link
+![Edit Order Link](../.gitbook/assets/image%20%2860%29.png)
 
 This will bring up the order edit page:
 
-![Order Edit Page](https://guides.spreecommerce.org/static/d119d1477407e5e059ba182061bb8007/03ffe/order_edit.jpg)Order Edit Page
+![Order Edit Page](../.gitbook/assets/image%20%2859%29.png)
 
 You can change any of the following components of an order from here:
 
