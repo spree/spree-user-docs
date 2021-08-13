@@ -7,10 +7,10 @@ The guides in this section will walk you through all of those configuration deci
 You will learn how to:
 
 * [Configure Taxes](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/taxes)
-* [Configure Zones](https://guides.spreecommerce.org/user/configuration/configuring_geography.html)
-* [Configure Payment Methods](https://guides.spreecommerce.org/user/payments/payment_methods.html)
-* [Configure Shipping Methods](https://guides.spreecommerce.org/user/shipments/shipping_methods.html)
-* [Configure Inventory](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html)
+* [Configure Zones](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyUkWAFBOi6sIzBt77/zones_countries_states)
+* [Configure Payment Methods](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyUkWAFBOi6sIzBt77/payment-methods)
+* [Configure Shipping Methods](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyUkWAFBOi6sIzBt77/shipments/shipping-methods)
+* [Configure Inventory](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/inventory)
 * [Configure Reimbursement Types](https://guides.spreecommerce.org/user/configuration/configuring_reimbursement_types.html)
 * [Configure Return Authorization Reasons](https://guides.spreecommerce.org/user/configuration/configuring_return_authorization_reasons.html)
 * [Set Store Credit Categories](https://guides.spreecommerce.org/user/configuration/configuring_store_credit_categories.html)
