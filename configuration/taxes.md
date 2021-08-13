@@ -41,11 +41,11 @@ Each product in your store will need a tax category assigned to it in order to a
 
 ### Zones <a id="zones"></a>
 
-In addition to a product’s tax category, the zone that an order is being shipped to will play a role in determining the tax amount. You can read more about how zones work in the [Zones guide](https://guides.spreecommerce.org/user/shipments/zones.html).
+In addition to a product’s tax category, the zone that an order is being shipped to will play a role in determining the tax amount. You can read more about how zones work in the [Zones guide](../shipments/zones.md).
 
 ### Tax Rates <a id="tax-rates"></a>
 
-Tax rates are how it all comes together. A product with a given [Tax Category](https://guides.spreecommerce.org/user/configuration/configuring_taxes.html#tax-categories), being shipped to a particular [Zone](https://guides.spreecommerce.org/user/configuration/configuring_taxes.html#zones), will accrue tax charges based on the relevant tax rate that you create.
+Tax rates are how it all comes together. A product with a given [Tax Category](taxes.md#tax-categories), being shipped to a particular [Zone](taxes.md#zones), will accrue tax charges based on the relevant tax rate that you create.
 
 To add a new Tax Rate, go to your Admin Interface and click “Configuration” then “Tax Rates”.
 
@@ -58,7 +58,7 @@ Here, you can see all of your existing tax rates and how they are configured. To
 * **Name** - Give your new tax rate a meaningful name \(like “Taxable US Goods”, for example\)
 * **Zone** - You’ll need to make separate tax rates for each zone you serve, per category. Suppose you have a “Clothing” tax category, and you sell to both the US and Europe; you’ll need to make two different tax rates, one for the US zone, and one for the European zone.
 * **Rate** - The actual percentage amount you are charging. 8% would be expressed as .08 in this field.
-* **Tax Category** - The [tax category](https://guides.spreecommerce.org/user/configuration/configuring_taxes.html#tax-categories) that relates to this tax rate.
+* **Tax Category** - The [tax category](taxes.md#tax-categories) that relates to this tax rate.
 * **Included in Price** - Check this box if you have already added the cost of tax into the price of the items.
 * **Show Rate in Label** - When this box is checked, order summaries will include the tax rate, not just the tax amount.
 * **Calculator** - By default, Spree uses the Default Tax calculator \(the calculation being the simple tax rate multiplied by item price, with adjustments made for any promotions\) to determine tax. If you need something more specific or customized than this, you can work with your development team to make it happen.
@@ -69,5 +69,5 @@ Finally, European stores will benefit from the Tax Settings page.
 
 ![Tax Settings](../.gitbook/assets/image%20%289%29.png)
 
-When this option is checked, your Spree site will take it as a default [tax category](https://guides.spreecommerce.org/user/configuration/configuring_taxes.html#tax-categories), find the corresponding [tax rate](https://guides.spreecommerce.org/user/configuration/configuring_taxes.html#tax-rates), and multiply it by the shipping rate for each available [shipping method](https://guides.spreecommerce.org/user/shipments/shipping_methods.html) offered to a customer during checkout.
+When this option is checked, your Spree site will take it as a default [tax category](taxes.md#tax-categories), find the corresponding [tax rate](taxes.md#tax-rates), and multiply it by the shipping rate for each available [shipping method](../shipments/shipping-methods.md) offered to a customer during checkout.
 
