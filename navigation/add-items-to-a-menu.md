@@ -6,7 +6,7 @@ This part of the guide assumes you have created a menu and are now ready to add 
 
 
 
-![Menu Items Area](../.gitbook/assets/image%20%284%29.png)
+![Menu Items Area](../.gitbook/assets/image%20%284%29%20%281%29.png)
 
 To get start adding items to your menu click the Add New Menu Item button found in the top right of the Menu Item Area; once clicked, you will be taken to the New Menu Item page shown in the image below.
 

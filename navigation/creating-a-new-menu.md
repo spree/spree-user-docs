@@ -8,7 +8,7 @@ Once you are in the menus area, you will see a button in the top right of the sc
 
 
 
-![Menus Page](../.gitbook/assets/image.png)
+![Menus Page](../.gitbook/assets/image%20%281%29%20%281%29.png)
 
 ### New Menu Options <a id="new-menu-options"></a>
 
@@ -29,7 +29,7 @@ Upon creating your first menu, you will be presented with a Menu Items Area; thi
 
 
 
-![Menu Items Area](../.gitbook/assets/image%20%283%29.png)
+![Menu Items Area](../.gitbook/assets/image%20%284%29.png)
 
 View the [Add Items To A Menu](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/add_items_to_a_menu) page of the Navigation documentation to begin adding items to your new menu.
 

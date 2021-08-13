@@ -88,9 +88,9 @@ The _Option Types_ you would create for this inventory are - Size, Wrap, and Lid
 | Wrap | Stars, Owls, Pink Paisley, Purple Paisley, Skulls |
 | Lid Color | Blue, Orange, Pink, White, Black |
 
-Read the [Product Options Guide](https://guides.spreecommerce.org/user/products/product_options.html) for directions on creating Option Types and Option Values. You must establish your Option Types and Option Values before you can set up your Variants. Don’t forget to associate the Option Types with the tumbler product so they’ll be available to you when you make your Variants.
+Read the [Product Options Guide](product-options.md) for directions on creating Option Types and Option Values. You must establish your Option Types and Option Values before you can set up your Variants. Don’t forget to associate the Option Types with the tumbler product so they’ll be available to you when you make your Variants.
 
-#### [Creating Variants](https://guides.spreecommerce.org/user/products/creating_products.html#creating-variants) <a id="creating-variants"></a>
+### [Creating Variants](creating-a-new-product.md#creating-variants)
 
 Now that you have set up the appropriate options for your Product’s Variants and associated those options with the product, you can create the Variants themselves.
 
@@ -98,11 +98,15 @@ Let’s create the large, star-wrapped, blue-lidded tumbler Variant as an exampl
 
 On your tumbler product edit page, click the “Variants” link then click the “New Variant” button.
 
-![New Product Variant](https://guides.spreecommerce.org/static/d5b42cca6f8df0a50ce6351864f78584/4472f/new_variant.jpg)New Product Variant
+New Product Variant
 
-Select the appropriate values for the Option Types. As you can see, you also have the choice to enter values for this particular Variant that may be different from what you input on the Product’s main page. Let’s raise the price on our Variant to $20. Click the “Create” button.
+![New Product Variant](https://guides.spreecommerce.org/static/d5b42cca6f8df0a50ce6351864f78584/4472f/new_variant.jpg)
 
-![Variants List](https://guides.spreecommerce.org/static/ac480c4387bf8dabddc2c75e492800a9/453c6/variants_list.jpg)Variants List
+Select the appropriate values for the Option Types. As you can see, you also have the choice to enter values for this particular Variant that may be different from what you input on the Product’s main page. Let’s raise the price of our Variant to $20. Click the “Create” button.
+
+Variants List
+
+![Variants List](https://guides.spreecommerce.org/static/ac480c4387bf8dabddc2c75e492800a9/453c6/variants_list.jpg)
 
 ### [Product Properties](https://guides.spreecommerce.org/user/products/creating_products.html#product-properties) <a id="product-properties"></a>
 
