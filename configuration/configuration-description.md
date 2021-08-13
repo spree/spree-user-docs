@@ -6,12 +6,14 @@ The guides in this section will walk you through all of those configuration deci
 
 You will learn how to:
 
-* [Configure Taxes](configuration-description.md)
-* [Configure Zones](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyUkWAFBOi6sIzBt77/zones_countries_states)
-* [Configure Payment Methods](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyUkWAFBOi6sIzBt77/payment-methods)
-* [Configure Shipping Methods](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyUkWAFBOi6sIzBt77/shipments/shipping-methods)
-* [Configure Inventory](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/inventory)
-* [Configure Reimbursement Types](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/reimbursement_types)
-* [Configure Return Authorization Reasons](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyYlEvMm9Am0zewwnK/return_authorization_reasons)
-* [Set Store Credit Categories](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/~/drafts/-MgyYlEvMm9Am0zewwnK/store_credit_categories)
+* [Configure Taxes](taxes.md)
+* [Configure Zones](zones-countries-states.md)
+* [Configure Payment Methods](../payments/payment-methods.md)
+* [Configure Shipping Methods](../shipments/shipping-methods.md)
+* [Configure Inventory](inventory.md)
+* [Configure Reimbursement Types](reimbursement-types.md)
+* [Configure Return Authorization Reasons](return-authorization-reasons.md)
+* [Set Store Credit Categories](store-credit-categories.md)
+
+
 
