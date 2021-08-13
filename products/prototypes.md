@@ -28,7 +28,7 @@ To create a new product based on the new prototype, click “Products” from th
 
 ![Product From Prototype](https://guides.spreecommerce.org/static/e5388425368959d48b6ef7641d9ddb99/03ffe/product_from_prototype.jpg)Product From Prototype
 
-When you do so, the Spree system shows you values for both of the Option Types you entered, so that it can automatically create [Product Variants](https://guides.spreecommerce.org/user/products/creating_products.html#understanding-variants) for each of them.
+When you do so, the Spree system shows you values for both of the Option Types you entered, so that it can automatically create [Product Variants](creating-a-new-product.md#understanding-variants) for each of them.
 
 Let’s create the Product and all Variants for the fictional “Hinkledink Picture Frame” product. Input the product’s Name, SKU, and Master Price \(remember, you can change this for each variant\). Make sure to set the Available On date to today so it will show up in your store. Check the boxes for the options this particular product has and click “Create”.
 
@@ -36,7 +36,7 @@ Clicking the box next to an Option Type title will automatically check all of it
 
 ![Prototype Option Types](https://guides.spreecommerce.org/static/f786408fa0d2258b75fb4740dcc45bd2/03ffe/prototype_product_with_options.jpg)Prototype Option Types
 
-Proceed with [creating the product](https://guides.spreecommerce.org/user/products/creating_products.html) as you would normally, adding any missing fields not supplied by the prototype.
+Proceed with [creating the product](creating-a-new-product.md) as you would normally, adding any missing fields not supplied by the prototype.
 
 Be sure to update each of the Variants with corresponding images, SKUs, and correct pricing, if applicable.[  
 ](https://github.com/spree/spree/edit/master/guides/src/content/user/products/product_prototypes.md)
