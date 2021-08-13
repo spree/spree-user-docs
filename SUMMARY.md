@@ -42,7 +42,7 @@
 
 ## Products
 
-* [Products\(Description\)](products/products-description.md)
+* [Products \(Description\)](products/products-description.md)
 * [Cloning Products](products/cloning-products.md)
 * [Creating a New Product](products/creating-a-new-product.md)
 * [Deleting Products](products/deleting-products.md)
