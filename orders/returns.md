@@ -1,10 +1,10 @@
 # Returns
 
-### [Introduction](https://guides.spreecommerce.org/user/orders/returning_orders.html#introduction) <a id="introduction"></a>
+### [Introduction](returns.md#introduction) <a id="introduction"></a>
 
 Returns are a reality of doing business for most e-commerce sites. A customer may find that the item they ordered doesn’t fit, or that it doesn’t suit their needs. The product may have been damaged in shipping. There are many reasons why a customer might choose to return an item they purchased from your store. This guide covers how you, as the site administrator, issue RMAs \(Return Merchandise Authorizations\) and process returns.
 
-### [Creating RMAs for Returns](https://guides.spreecommerce.org/user/orders/returning_orders.html#creating-rm-as-for-returns) <a id="creating-rm-as-for-returns"></a>
+### [Creating RMAs for Returns](returns.md#creating-rm-as-for-returns) <a id="creating-rm-as-for-returns"></a>
 
 You can only create RMAs for orders that have already been shipped. That makes sense, as you wouldn’t authorize a return for something you haven’t sent out yet.
 
@@ -16,7 +16,7 @@ To create an RMA for a shipped order, click the order’s “Return Authorizatio
 
 To use it, just select each line item to be returned, either a reimbursement type or exchange item. Firstly, select the quantity of the item\(s\) to be returned. This is set to “1” by default but can be adjusted if the customer is returning a number of goods. Next, choose if you are returning the customer’s money or shipping a replacement item. If reimbursing money, selecting the “Original” reimbursement type will refund a user via their original payment method when the items are returned and approved. Selecting an exchange item will create a new shipment of a replacement item for the customer. The form will automatically calculate the RMA value based on the sale price of the item\(s\), but you will have to confirm the amount when the reimbursement is issued. This gives you a chance to adjust for handling fees, restocking fees, damages, etc.
 
-Input the reason and any memo notes for the return, and select the [Stock Location](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html) that the item is being sent back to. Click the “Create” button.
+Input the reason and any memo notes for the return, and select the [Stock Location](../configuration/inventory.md#stock-movements) that the item is being sent back to. Click the “Create” button.
 
 Now, you just need to wait for the package to be received at your location.
 
@@ -30,13 +30,13 @@ Inside of the Return Authorization Edit, you’ll find the same layout as for cr
 
 ![Return Edition Inside](https://guides.spreecommerce.org/static/07643dcf14fdcfa142c0aee4c0df8a89/03ffe/return_autho_inside.jpg)Return Edition Inside
 
-### [Processing Returns](https://guides.spreecommerce.org/user/orders/returning_orders.html#processing-returns) <a id="processing-returns"></a>
+### [Processing Returns](returns.md#processing-returns) <a id="processing-returns"></a>
 
 Once you receive a return package, you need to create a “Customer Return”. To do so, go to the order in question and click “Customer Returns”. Click the “New Customer Return” button.
 
 ![Receive RMA Button](https://guides.spreecommerce.org/static/4ee889c7478426256562b876eb593777/03ffe/customer_return_link.jpg)Receive RMA Button
 
-Select which of the authorized return items were received or mark all of them by simply clicking the check box on the left-hand side of the product, and the [Stock Location](https://guides.spreecommerce.org/user/products/creating_products.html) at which the item was received. You can also select whether the item that has been returned by the User is still **Resellable** or not. Once you are done, click the “Create” button.
+Select which of the authorized return items were received or mark all of them by simply clicking the check box on the left-hand side of the product, and the [Stock Location](../products/creating-a-new-product.md) at which the item was received. You can also select whether the item that has been returned by the User is still **Resellable** or not. Once you are done, click the “Create” button.
 
 ![Receive RMA Button](https://guides.spreecommerce.org/static/98e2df062123b27b49dd1903df6ba0c2/03ffe/customer_return_form.jpg)Receive RMA Button
 
