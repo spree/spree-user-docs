@@ -14,7 +14,9 @@ Menus Page
 
 Once you have entered the New Menu screen, you are presented with four options.
 
-![New Menu Page](https://guides.spreecommerce.org/static/8c54ee9d60d2b3deadf59f065f3ea61c/03ffe/new_menu.jpg)New Menu Page
+New Menu Page
+
+![](../.gitbook/assets/image%20%282%29.png)
 
 * **Name:** You must give your menu a name; the menu name is not displayed in the frontend store view, so feel free to name your menu something you can quickly identify.
 * **Store:** Each menu belongs to one store; set the store that you want this menu to appear in.
