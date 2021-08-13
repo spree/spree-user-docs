@@ -31,12 +31,12 @@ After you click the “Create” button, the Spree application brings you to a m
 * **Height** - The product’s height in inches. May be used to calculate shipping cost.
 * **Width** - The product’s width in inches. May be used to calculate shipping cost.
 * **Depth** - The product’s depth or breadth in inches. May be used to calculate shipping cost.
-* **Shipping Categories** - You will learn about setting up Shipping Categories in the [Shipping Categories](https://guides.spreecommerce.org/user/shipments/shipping_categories.html).
-* **Tax Category** - You will learn about setting up Tax Categories in the [Taxes Guide](https://guides.spreecommerce.org/user/configuration/configuring_taxes.html).
-* **Taxons** - Taxons are basically like categories. You will learn more about them in the [Taxonomies Guide](https://guides.spreecommerce.org/user/products/taxonomies_and_taxons.html).
+* **Shipping Categories** - You will learn about setting up Shipping Categories in the [Shipping Categories](../shipments/shipping-categories.md).
+* **Tax Category** - You will learn about setting up Tax Categories in the [Taxes Guide](../configuration/taxes.md).
+* **Taxons** - Taxons are basically like categories. You will learn more about them in the [Taxonomies Guide](taxonomies-and-taxons.md).
 * **Option Types** - You can select any number of Options to associate your new product with. You’ll learn more about Options in the [Options Guide](https://guides.spreecommerce.org/user/products/product_options.html).
 * **Meta Title** - The name of the product site that is visible in the browser navigation bar. We highly recommended filling out Meta Title/Keywords/Description for each product since it does improve SEO and will index the site name in Google Search.
-* **Meta Keywords** - These words are appended to the website’s keywords you established in the [Store Settings](https://guides.spreecommerce.org/user/configuration/configuring_multi_stores.html#edit-store) and can help improve your site’s search engine ratings, bringing you more web traffic. They should be words that are key to your new product.
+* **Meta Keywords** - These words are appended to the website’s keywords you established in the [Store Settings](../configuration/spree-multi-store.md#edit-store) and can help improve your site’s search engine ratings, bringing you more web traffic. They should be words that are key to your new product.
 * **Meta Description** - The summary that someone sees when your product’s page is returned in a web search. It should be descriptive but not overly verbose.
 
 ### [Images](creating-a-new-product.md#images) <a id="images"></a>
@@ -138,5 +138,5 @@ Your Stock Location Info table should now look like the one pictured above.
 
 “Backorderable” may or may not be checked for your individual Stock Locations, depending on how you configured them. Each Stock Location has defaults for this value, but you can change it on a variant-by-variant basis in this dialog.
 
-You should be sure to read the [Stock Locations](../configuration/inventory.md) and [Stock Movements](https://guides.spreecommerce.org/user/configuration/configuring_inventory.html#stock-movements) guides for further information on managing your store’s inventory.
+You should be sure to read the [Stock Locations](../configuration/inventory.md#stock-locations) and [Stock Movements](../configuration/inventory.md#stock-movements) guides for further information on managing your store’s inventory.
 
