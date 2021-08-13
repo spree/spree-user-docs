@@ -25,5 +25,5 @@ Upon creating your first menu, you will be presented with a Menu Items Area; thi
 
 ![Menu Items Area](https://guides.spreecommerce.org/static/84fb50bafe1ba1fc76c17ef17d6e25cd/03ffe/menu_items_area.jpg)Menu Items Area
 
-View the [Add Items To A Menu](https://guides.spreecommerce.org/user/navigation/add_menu_items.html) page of the Navigation documentation to begin adding items to your new menu.
+View the [Add Items To A Menu](https://app.gitbook.com/@spark-solutions/s/spree-user-documentation/add_items_to_a_menu) page of the Navigation documentation to begin adding items to your new menu.
 
