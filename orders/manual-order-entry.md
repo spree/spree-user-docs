@@ -93,7 +93,7 @@ You need only enter the “Amount” \(positive for a charge on the order; negat
 
 ![New Adjustment Form](../.gitbook/assets/image%20%2863%29.png)
 
-For a better understanding of adjustments, please read the [Developer Adjustments Guide](https://guides.spreecommerce.org/developer/internals/adjustments.html).
+For a better understanding of adjustments, please read the [Developer Adjustments Guide](https://app.gitbook.com/@spark-solutions/s/spree-developer-documentation/internals/adjustments).
 
 Once you have finished all of the changes you want in the order’s Adjustments, click “Continue”.
 
