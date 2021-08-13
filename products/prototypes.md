@@ -12,7 +12,7 @@ This guide presumes you have already created the [Option Types](product-options.
 
 To create a prototype, go to the Admin Interface and click “Products”, then “Prototypes”. Click the “New Prototype” button.
 
-![New Prototype Form](../.gitbook/assets/image%20%2899%29.png)
+![New Prototype Form](../.gitbook/assets/image%20%28100%29.png)
 
 Input a value for the “Name” field \(such as “Picture Frames”\), and choose the properties and options you want to associate with this type of product.
 
@@ -20,13 +20,13 @@ Input a value for the “Name” field \(such as “Picture Frames”\), and cho
 
 Click the “Create” button. You should now see your new prototype in the “Prototypes” list.
 
-![Prototypes List](../.gitbook/assets/image%20%2883%29.png)
+![Prototypes List](../.gitbook/assets/image%20%2884%29.png)
 
 ## [Using a Prototype to Create Products](prototypes.md#using-a-prototype-to-create-products) <a id="using-a-prototype-to-create-products"></a>
 
 To create a new product based on the new prototype, click “Products” from the Admin Interface, then click the “New Product” button. Select “Picture Frames” from the “Prototypes” drop-down menu.
 
-![Product From Prototype](../.gitbook/assets/image%20%28104%29.png)
+![Product From Prototype](../.gitbook/assets/image%20%28105%29.png)
 
 When you do so, the Spree system shows you values for both of the Option Types you entered, so that it can automatically create [Product Variants](creating-a-new-product.md#understanding-variants) for each of them.
 

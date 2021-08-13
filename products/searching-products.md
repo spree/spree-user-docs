@@ -25,7 +25,7 @@ You may not always want to see every product in the store, as is the Spree defau
 
 You can choose one or more of the following options to narrow your product search, then click the **Filter** button to extend filter options in the dropdown menu.
 
-![Filter products](../.gitbook/assets/image%20%2891%29.png)
+![Filter products](../.gitbook/assets/image%20%2892%29.png)
 
 * **Name** - You can filter a particular product by its name.
 * **SKU** - Every time you create a product you may want to assign an SKU Number to make a search much faster and simplify shipping flow. You can use that number to search for the product.
