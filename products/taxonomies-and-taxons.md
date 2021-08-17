@@ -82,8 +82,6 @@ To edit a taxon’s name, just right-click it and select “Edit”.
 
 ![Edit Taxon Form](../.gitbook/assets/image%20%28113%29.png)
 
-![Edit Taxon Form](https://guides.spreecommerce.org/static/fbfdb052f8ad12e78aa7f7315dfa4653/03ffe/edit_taxon.jpg)
-
 Here, you can edit several aspects of the taxon:
 
 * **Name** - A required field for all taxons. The name determines what the user will see when they look at this product in your store.
@@ -96,13 +94,7 @@ Here, you can edit several aspects of the taxon:
 * **Meta Keywords** - Overrides the store’s setting for meta keywords when a user visits the taxon’s page on the frontend of the website.
 * **Description** - This option is currently not functional.
 
-![Hide From Subcategories](../.gitbook/assets/image%20%28110%29.png)
-
-* **Header Banner** - This option lets you upload a header image for the desired category
-* **Meta Title** - Overrides the store’s setting for page title when a user visits the taxon’s page on the front end of the website.
-* **Meta Description** - Overrides the store’s setting for meta description when a user visits the taxon’s page on the frontend of the website.
-* **Meta Keywords** - Overrides the store’s setting for meta keywords when a user visits the taxon’s page on the frontend of the website.
-* **Description** - This option is currently not functional.
+\*\*\*\*
 
 ![Hide From Subcategories](https://guides.spreecommerce.org/static/ef9cb1706bbc2c1aef504e69dccdf1e3/03ffe/hide_from_subcategories.jpg)
 
@@ -113,8 +105,6 @@ Remember to click “Update” after you make your changes.
 To delete a taxon, right-click it in the taxonomy tree and click “Remove”.
 
 ![Remove a Taxon](https://guides.spreecommerce.org/static/c10fe86e984085517bb383f4789439c7/b10e1/remove_taxon.jpg)
-
-![Remove a Taxon](../.gitbook/assets/image%20%28111%29.png)
 
 Press “OK” to confirm.
 
