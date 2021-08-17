@@ -24,19 +24,13 @@ To edit an existing taxonomy, click the “Edit” icon next to the name in the 
 
 ![Edit Taxonomy Icon](../.gitbook/assets/image%20%28112%29.png)
 
-![Edit Taxonomy Icon](https://guides.spreecommerce.org/static/9cb03ea7b950c1e1e65692cc64ef86ce/e24e8/edit_taxonomy_icon.jpg)
-
 Here, you can change the name of the Taxonomy. You can also [reorder the child taxons](taxonomies-and-taxons.md#reorder-a-taxon), [delete a taxon](taxonomies-and-taxons.md#delete-a-taxon), [add a new taxon](taxonomies-and-taxons.md#adding-a-taxon-to-a-taxonomy), or [edit a taxon](taxonomies-and-taxons.md#edit-a-taxon). Make your changes, then click the Update button.
-
-![Edit Taxonomy](../.gitbook/assets/image%20%28109%29.png)
 
 ![Edit Taxonomy](https://guides.spreecommerce.org/static/7e812849c6e36548be7a24fd40845a9c/33bac/edit_taxonomy.jpg)
 
 ### [Delete a Taxonomy](taxonomies-and-taxons.md#delete-a-taxonomy) <a id="delete-a-taxonomy"></a>
 
 ![Delete Taxonomy Icon](../.gitbook/assets/image%20%28117%29.png)
-
-![Delete Taxonomy Icon](https://guides.spreecommerce.org/static/bb2f9a0b92aeb6ad84c96d91b78091fa/e24e8/delete_taxonomy_icon.jpg)
 
 To delete a taxonomy, click the “Delete” icon next to the name in the Taxonomies list. Click “OK” to confirm.
 
@@ -52,8 +46,6 @@ This will cause a new input field to open up, with “New node” in it. Replace
 
 ![New Taxon](../.gitbook/assets/image%20%28121%29.png)
 
-![New Taxon](https://guides.spreecommerce.org/static/218ca6d55e9da5924a9473d38f047a9a/e53e1/new_taxon.jpg)
-
 Click “Update” to save your addition.
 
 ### [Adding a Taxon to Another Taxon](taxonomies-and-taxons.md#adding-a-taxon-to-another-taxon) <a id="adding-a-taxon-to-another-taxon"></a>
@@ -62,13 +54,9 @@ If your site needs sub-trees, just add taxons to other taxons. To do so, right-c
 
 ![Add Taxon to Another Taxon](../.gitbook/assets/image%20%28115%29.png)
 
-![Add Taxon to Another Taxon](https://guides.spreecommerce.org/static/56f86d0c2b1553f34445b6b80907364d/50fad/add_taxon_to_taxon.jpg)
-
 Enter the name of the child taxon and click enter. Repeat this process for any sub-trees you need.
 
 ![Complex Taxonomy Tree](../.gitbook/assets/image%20%28120%29.png)
-
-![Complex Taxonomy Tree](https://guides.spreecommerce.org/static/112bb731a3351045dc2fb852027096ca/fb2e4/complex_taxonomy_tree.jpg)
 
 Remember to save your changes by clicking the “Update” button after you have added any taxons.
 
@@ -82,13 +70,9 @@ Let’s assume, for example, that we want the “Children’s” taxon to be lis
 
 ![Reordering Taxons](../.gitbook/assets/image%20%28122%29.png)
 
-![Reordering Taxons](https://guides.spreecommerce.org/static/9e55789f93b675d6f1aef37ace61ad9f/94796/reorder_taxons.jpg)
-
 You can even drag a parent taxon into the tree of a different parent taxon, merging it into the second taxon’s sub-tree.
 
 ![Parent-to-Parent Taxon Merge](../.gitbook/assets/image%20%28108%29.png)
-
-![Parent-to-Parent Taxon Merge](https://guides.spreecommerce.org/static/d1543035f6712a8424bd3755b825b88b/3bbd9/parent_into_parent_taxon_merge.jpg)
 
 ### [Edit a Taxon](taxonomies-and-taxons.md#edit-a-taxon) <a id="edit-a-taxon"></a>
 
