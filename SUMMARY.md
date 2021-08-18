@@ -31,7 +31,7 @@
 
 ## Payments
 
-* [Payments \(Description\)](payments/payments-description.md)
+* [Payments](payments/payments.md)
 * [Payment Methods](payments/payment-methods.md)
 * [Payment States](payments/payment-states.md)
 
