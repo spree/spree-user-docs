@@ -8,7 +8,7 @@ To create a new user for your store, go into the Admin Interface, click the **Us
 
 There are three mandatory fields \(“Email”, “Password”, and “Password Confirmation”\) as well as Roles checkboxes \(“Admin” and “User” are created by Spree as a default, there is a possibility to extend Roles with backend work\).
 
-![Add new User](https://guides.spreecommerce.org/static/b60f4109b2e263f63985024dabce0f7e/03ffe/add_new_user.jpg)Add new User
+![Add new User](https://guides.spreecommerce.org/static/b60f4109b2e263f63985024dabce0f7e/03ffe/add_new_user.jpg)
 
 ### [Editing existing user](creating-a-new-user.md#editing-existing-user) <a id="editing-existing-user"></a>
 
