@@ -4,7 +4,7 @@
 
 There is a possibility to edit existing users. When you enter the **Users** tab, simply search for the specific user that you would like to edit and press the **Edit** icon.
 
-![User edit option](https://guides.spreecommerce.org/static/377a22fe734e689d41ffd96d04878eef/06dbb/user_edit_option.jpg)User edit option
+![User edit option](https://guides.spreecommerce.org/static/377a22fe734e689d41ffd96d04878eef/06dbb/user_edit_option.jpg)
 
 ### [General Settings](editing-users.md#general-settings) <a id="general-settings"></a>
 
