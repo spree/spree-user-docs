@@ -68,7 +68,7 @@ Add a rule of this type to restrict the promotion only to logged-in users. Selec
 
 ### [Actions](creating-a-new-promotion.md#actions) <a id="actions"></a>
 
-Whereas [Rules](https://guides.spreecommerce.org/user/promotions/creating_promotions.html#rules) establish whether a promotion applies or not, Actions determine what happens when a promotion does apply to an order. There are two types of actions: [create adjustments](creating-a-new-promotion.md#create-adjustments) and [create line items](creating-a-new-promotion.md#create-line-items).
+Whereas [Rules](creating-a-new-promotion.md#rules) establish whether a promotion applies or not, Actions determine what happens when a promotion does apply to an order. There are two types of actions: [create adjustments](creating-a-new-promotion.md#create-adjustments) and [create line items](creating-a-new-promotion.md#create-line-items).
 
 #### [Create Adjustments](creating-a-new-promotion.md#create-adjustments) <a id="create-adjustments"></a>
 
