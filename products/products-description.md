@@ -1,4 +1,4 @@
-# Products \(Description\)
+# Products
 
 Products are at the core of any e-commerce site. Indeed selling them is the whole reason behind opening a store in the first place.
 
