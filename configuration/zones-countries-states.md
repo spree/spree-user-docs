@@ -16,7 +16,7 @@ Within a Spree store, zones are geographical groupings; they represent collectio
 
 You should already have several countries configured. You may want to edit items on this list based on your needs. To access the Countries list, go to your Admin Interface, click “Configuration”, then click “Countries”.
 
-![Countries List](../.gitbook/assets/image%20%2841%29.png)
+![Countries List](../.gitbook/assets/image%20%28123%29.png)
 
 ### [States](zones-countries-states.md#states) <a id="states"></a>
 
