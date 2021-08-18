@@ -80,7 +80,7 @@ It is possible to add a new payment gateway that is not included on the supporte
 
 To edit the configuration settings for an existing payment method, go to the Admin Interface, click the “Configuration” tab, and then click the “Payment Methods” link. Find the payment method that you would like to edit on the list that appears. Click the “Edit” icon next to the payment method to edit its settings.
 
-![Edit Payment Method](https://guides.spreecommerce.org/static/a92438d055a6896ddc458b7f020e8863/03ffe/edit_payment_method.jpg)Edit Payment Method
+![Edit Payment Method](https://guides.spreecommerce.org/static/a92438d055a6896ddc458b7f020e8863/03ffe/edit_payment_method.jpg)
 
 Make the desired changes to the payment method settings and then click “Update” to save them.
 
