@@ -30,7 +30,7 @@ Input the values for all of the fields, and click “Create” to add your new s
 
 To edit a stock location, click the “Edit” icon next to it in the Stock Locations list.
 
-![Edit Stock Location Icon](../.gitbook/assets/image%20%2813%29.png)
+![Edit Stock Location Icon](../.gitbook/assets/image%20%28123%29.png)
 
 Make the desired changes in the form and click “Update”.
 
@@ -38,7 +38,7 @@ Make the desired changes in the form and click “Update”.
 
 To remove a stock location, click the “Delete” icon next to it in the Stock Locations list.
 
-![Delete Stock Location Icon](../.gitbook/assets/image%20%2819%29.png)
+![Delete Stock Location Icon](../.gitbook/assets/image%20%28124%29.png)
 
 Click “OK” to confirm the deletion.
 
@@ -46,7 +46,7 @@ Click “OK” to confirm the deletion.
 
 Note the “Stock Movements” link on the Stock Locations list.
 
-![Stock Movements Link](../.gitbook/assets/image%20%2820%29.png)
+![Stock Movements Link](../.gitbook/assets/image%20%28127%29.png)
 
 Clicking this link will show you all of the stock movements that have taken place for this stock location, both positive and negative.
 
