@@ -64,7 +64,7 @@ Select “Yes” if you want the payment method to be active on your store. Sele
 
 Give the payment method a name. The value you enter will appear on the customer-facing area of your store, on the Payment page as seen below:
 
-![Payment Method Name](https://guides.spreecommerce.org/static/931cf67b74f7ebe34ed803e912c59e32/03ffe/payment_method_name.jpg)Payment Method Name
+![Payment Method Name](https://guides.spreecommerce.org/static/931cf67b74f7ebe34ed803e912c59e32/03ffe/payment_method_name.jpg)
 
 **Description**
 
