@@ -26,7 +26,7 @@
 
 ## Orders
 
-* [Orders\(Description\)](orders/orders-description.md)
+* [Orders \(Description\)](orders/orders-description.md)
 * [Editing an Order](orders/editing-an-order.md)
 * [Manual Order Entry](orders/manual-order-entry.md)
 * [Order States](orders/order-states.md)

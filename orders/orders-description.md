@@ -1,4 +1,4 @@
-# Orders\(Description\)
+# Orders \(Description\)
 
 A lot of the time you spend administering your Spree store will involve manipulating customer orders - processing payments, issuing refunds, confirming shipments, etc.
 
