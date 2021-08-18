@@ -1,4 +1,4 @@
-# Promotions \(Description\)
+# Promotions
 
 The Spree cart’s promotions functionality allows you to offer coupons and discounts to your site’s users based on the conditions you choose. This guide will explain to you all of the options at hand.
 

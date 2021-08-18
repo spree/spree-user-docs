@@ -50,7 +50,7 @@
 
 ## Promotions
 
-* [Promotions \(Description\)](promotions/promotions-description.md)
+* [Promotions](promotions/promotions.md)
 * [Creating a New Promotion](promotions/creating-a-new-promotion.md)
 * [Editing Promotion](promotions/editing-promotion.md)
 * [Removing Promotion](promotions/removing-promotion.md)
