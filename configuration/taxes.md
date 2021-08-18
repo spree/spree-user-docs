@@ -49,7 +49,7 @@ Tax rates are how it all comes together. A product with a given [Tax Category](t
 
 To add a new Tax Rate, go to your Admin Interface and click “Configuration” then “Tax Rates”.
 
-![Tax Rates](../.gitbook/assets/image%20%2810%29.png)
+![Tax Rates](../.gitbook/assets/image%20%28124%29.png)
 
 Here, you can see all of your existing tax rates and how they are configured. To create a new tax rate, click the “New Tax Rate” button.
 
