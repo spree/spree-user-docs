@@ -34,7 +34,7 @@ Let’s create the Product and all Variants for the fictional “Hinkledink Pict
 
 Clicking the box next to an Option Type title will automatically check all of its Option Values for you.
 
-![Prototype Option Types](../.gitbook/assets/image%20%2879%29.png)
+![Prototype Option Types](../.gitbook/assets/image2%20%281%29.png)
 
 Proceed with [creating the product](creating-a-new-product.md) as you would normally, adding any missing fields not supplied by the prototype.
 
