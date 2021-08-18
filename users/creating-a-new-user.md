@@ -12,5 +12,5 @@ There are three mandatory fields \(“Email”, “Password”, and “Password 
 
 ### [Editing existing user](creating-a-new-user.md#editing-existing-user) <a id="editing-existing-user"></a>
 
-Once you have created an account, you are redirected to a User editing page which you can find out more about [here](https://guides.spreecommerce.org/user/users/editing_users.html).
+Once you have created an account, you are redirected to a User editing page which you can find out more about [here](editing-users.md).
 
