@@ -23,7 +23,7 @@ You can change any of the following components of an order from here:
 
 * [The types and quantities of products](manual-order-entry.md#add-products)
 * [Shipping method](manual-order-entry.md#shipments)
-* Tracking details for shipments
+* [Tracking details for shipments](../shipments/shipping-methods.md#tracking-url)
 * [Customer information](manual-order-entry.md#customer-details)
 * [Adjustments](manual-order-entry.md#adjustments)
 * [Payment information](manual-order-entry.md#payments)
