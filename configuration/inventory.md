@@ -46,7 +46,7 @@ Click “OK” to confirm the deletion.
 
 Note the “Stock Movements” link on the Stock Locations list.
 
-![Stock Movements Link](../.gitbook/assets/image%20%28129%29.png)
+![Stock Movements Link](../.gitbook/assets/image%20%28130%29.png)
 
 Clicking this link will show you all of the stock movements that have taken place for this stock location, both positive and negative.
 
