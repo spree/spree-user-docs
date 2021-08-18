@@ -15,5 +15,5 @@ The states that an order passes through are as follows:
 * `confirm` - The order is ready for a final review by the customer before being processed.
 * `complete` - The order has successfully completed all of the previous states and is now being processed.
 
-The states described above are the default settings for a Spree store. You can customize the order states to suit your needs utilizing our API. This includes adding, removing, or changing the order of certain states. Customization details are provided in the [Checkout Flow API Guide](https://app.gitbook.com/@spark-solutions/s/spree-developer-documentation/customization/checkout).
+The states described above are the default settings for a Spree store. You can customize the order states to suit your needs utilizing our API. This includes adding, removing, or changing the order of certain states. Customization details are provided in the Checkout Flow API Guide.
 
