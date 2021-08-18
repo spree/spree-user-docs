@@ -4,5 +4,5 @@ Welcome to the Spree User Guides! This documentation is intended for business ow
 
 Should you find any errors in these guides, or topics you wish to see covered, please let us know by [creating an issue](https://github.com/spree/spree/issues/new) on GitHub.
 
-If you are a Spree developer, you may find the [Developer Guides](https://guides.spreecommerce.org/developer/) to be of benefit to you, though we strongly urge you to read through both sets of guides.
+If you are a Spree developer, you may find the [Developer Guides](https://dev-docs.spreecommerce.org/) to be of benefit to you, though we strongly urge you to read through both sets of guides.
 
