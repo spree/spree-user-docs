@@ -34,7 +34,7 @@ After you click the “Create” button, the Spree application brings you to a m
 * **Shipping Categories** - You will learn about setting up Shipping Categories in the [Shipping Categories](../shipments/shipping-categories.md).
 * **Tax Category** - You will learn about setting up Tax Categories in the [Taxes Guide](../configuration/taxes.md).
 * **Taxons** - Taxons are basically like categories. You will learn more about them in the [Taxonomies Guide](taxonomies-and-taxons.md).
-* **Option Types** - You can select any number of Options to associate your new product with. You’ll learn more about Options in the [Options Guide](https://guides.spreecommerce.org/user/products/product_options.html).
+* **Option Types** - You can select any number of Options to associate your new product with. You’ll learn more about Options in the [Options Guide](product-options.md#option-types-and-option-values).
 * **Meta Title** - The name of the product site that is visible in the browser navigation bar. We highly recommended filling out Meta Title/Keywords/Description for each product since it does improve SEO and will index the site name in Google Search.
 * **Meta Keywords** - These words are appended to the website’s keywords you established in the [Store Settings]() and can help improve your site’s search engine ratings, bringing you more web traffic. They should be words that are key to your new product.
 * **Meta Description** - The summary that someone sees when your product’s page is returned in a web search. It should be descriptive but not overly verbose.
