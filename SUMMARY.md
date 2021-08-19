@@ -50,7 +50,6 @@
 
 ## Promotions
 
-* [Promotions](promotions/promotions.md)
 * [Creating a New Promotion](promotions/creating-a-new-promotion.md)
 * [Editing Promotion](promotions/editing-promotion.md)
 * [Removing Promotion](promotions/removing-promotion.md)
@@ -66,7 +65,7 @@
 ## Users
 
 * [Creating a New User](users/creating-a-new-user.md)
-* [Deleting Users](users/deleting-users.md)
-* [Editing Users](users/editing-users.md)
 * [Searching Users](users/searching-users.md)
+* [Editing Users](users/editing-users.md)
+* [Deleting Users](users/deleting-users.md)
 
