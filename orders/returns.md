@@ -48,7 +48,7 @@ The reimbursement form will be populated according to your original reimbursemen
 
 ![Issue a Reimbursement](../.gitbook/assets/image%20%2894%29.png)
 
-Your return-processing is complete! As you can see, there is $24.14 refund issued to the original credit card or store credits to the user’s account.
+Your return-processing is complete! As you can see, there is a $24.14 refund issued to the original credit card or store credits to the user’s account.
 
 ![Reimbursement Complete](../.gitbook/assets/image%20%2899%29.png)
 
