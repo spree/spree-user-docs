@@ -15,9 +15,9 @@ The possible payment states are:
 * **Void** - The payment should not be applied to the order.
 * **Completed** - The payment is completed. Only payments in this state count against the order total.
 
-A payment does not necessarily go through each of these states in sequential order as illustrated below:
+Payment does not necessarily go through each of these states in sequential order as illustrated below:
 
-![Payments Flow](https://guides.spreecommerce.org/static/3642ee180cb935bfbf007a3e24f6d05d/06edc/payment_flow.jpg)
+![](../.gitbook/assets/payment_flow.jpg)
 
 You can determine the payment state for a particular order by going to the Admin Interface and clicking on the “Orders” tab. Find the order you want to look up and click on it. Then click on the “Payments” link.
 
@@ -26,10 +26,6 @@ You can determine the payment state for a particular order by going to the Admin
 ![Payment Look Up](https://guides.spreecommerce.org/static/dad829128fd7032d836665dd395431be/eef13/payments_look_up.jpg)
 
 The details for the payment will appear. The “Payment State” column will display one of the possible payment states listed above.
-
-
-
-![Payment Details](https://guides.spreecommerce.org/static/9a0eeeec07c9e4034d31af41f114cf25/010af/payment_details.jpg)
 
 ### [Authorize vs Capture](https://guides.spreecommerce.org/user/payments/payment_states.html#authorize-vs-capture) <a id="authorize-vs-capture"></a>
 
