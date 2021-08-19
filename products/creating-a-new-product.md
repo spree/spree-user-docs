@@ -36,7 +36,7 @@ After you click the “Create” button, the Spree application brings you to a m
 * **Taxons** - Taxons are basically like categories. You will learn more about them in the [Taxonomies Guide](taxonomies-and-taxons.md).
 * **Option Types** - You can select any number of Options to associate your new product with. You’ll learn more about Options in the [Options Guide](product-options.md#option-types-and-option-values).
 * **Meta Title** - The name of the product site that is visible in the browser navigation bar. We highly recommended filling out Meta Title/Keywords/Description for each product since it does improve SEO and will index the site name in Google Search.
-* **Meta Keywords** - These words are appended to the website’s keywords you established in the [Store Settings]() and can help improve your site’s search engine ratings, bringing you more web traffic. They should be words that are key to your new product.
+* **Meta Keywords** - These words are appended to the website’s keywords you established in the Store Settings and can help improve your site’s search engine ratings, bringing you more web traffic. They should be words that are key to your new product.
 * **Meta Description** - The summary that someone sees when your product’s page is returned in a web search. It should be descriptive but not overly verbose.
 
 ### [Images](creating-a-new-product.md#images) <a id="images"></a>
@@ -44,8 +44,6 @@ After you click the “Create” button, the Spree application brings you to a m
 A store without products images would be pretty boring - and probably not garner a lot of sales. It would be very time-consuming to have to upload, crop, resize, and associate several photos to each product, if you had to do so manually. Luckily, Spree makes maintaining images of your products quick and painless.
 
 Just click the “Images” link under “Product Details” on the right-hand side of the screen. Any images that you may have already uploaded will be previewed for you. To add a new image for your product then click the “New Image” button.
-
-New Product Image Form
 
 ![New Product Image Form](https://guides.spreecommerce.org/static/627b612a70fbed066e555566285a744d/096b1/new_image_form.jpg)
 
@@ -98,13 +96,9 @@ Let’s create the large, star-wrapped, blue-lidded tumbler Variant as an exampl
 
 On your tumbler product edit page, click the “Variants” link then click the “New Variant” button.
 
-New Product Variant
-
 ![New Product Variant](https://guides.spreecommerce.org/static/d5b42cca6f8df0a50ce6351864f78584/4472f/new_variant.jpg)
 
 Select the appropriate values for the Option Types. As you can see, you also have the choice to enter values for this particular Variant that may be different from what you input on the Product’s main page. Let’s raise the price of our Variant to $20. Click the “Create” button.
-
-Variants List
 
 ![Variants List](https://guides.spreecommerce.org/static/ac480c4387bf8dabddc2c75e492800a9/453c6/variants_list.jpg)
 
@@ -121,8 +115,6 @@ As of Spree version 2.0, you now have much more granular control over how invent
 Let’s assume that you have two stock locations - your main New York warehouse and your satellite Detroit warehouse. Refer to the instructions on creating stock locations in the [Stock Locations Guide](../configuration/inventory.md) to add your warehouses.
 
 Now, go back to the Tumblers product page, and click the “Stock Management” link.
-
-Stock Management Page
 
 ![Stock Management Page](https://guides.spreecommerce.org/static/c504f45511f32bfd23c112513e950860/9eded/stock_management.jpg)
 
