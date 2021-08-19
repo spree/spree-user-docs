@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🖌 Spree User Documentation](README.md)
+* [Spree User Documentation](README.md)
 
 ## Configuration
 
