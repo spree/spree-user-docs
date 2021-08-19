@@ -36,7 +36,7 @@ To configure one of the supported payment gateways, you must first install the [
 
 
 
-![New Payment Method Form](https://guides.spreecommerce.org/static/7fc02dcb82390db2799f37ad9589f563/03ffe/new_payment_method.jpg)
+![](../.gitbook/assets/zrzut-ekranu-2021-08-19-161951.jpg)
 
 If you installed the [Spree Gateway](https://github.com/spree/spree_gateway) extension, you will see a long list of gateways in the “Provider” drop down menu. Select the one that you would like to add.
 
