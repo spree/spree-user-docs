@@ -66,7 +66,7 @@ A customer whose order subtotal equals $35 would be offered a shipping cost of $
 
 #### [Custom Calculators](calculators.md#custom-calculators) <a id="custom-calculators"></a>
 
-You can define your own calculator if you have more complex needs. In that case, check out the [Calculators Guide](https://guides.spreecommerce.org/developer/internals/calculators.html).
+You can define your own calculator if you have more complex needs. In that case, check out the [Calculators Guide](https://dev-docs.spreecommerce.org/internals/calculators).
 
 ### [Next Step](calculators.md#next-step) <a id="next-step"></a>
 
