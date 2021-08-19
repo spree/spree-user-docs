@@ -24,7 +24,7 @@ When researching payment gateway options, you may find that they offer an all-in
 
 ### [Add a Payment Method](payment-methods.md#add-a-payment-method) <a id="add-a-payment-method"></a>
 
-Spree enables you to utilize the payment method of choice for your e-commerce store. We have two [preferred payment gateway partners](http://spreecommerce.com/products/payment_processing) and a long [list](https://github.com/Shopify/active_merchant#supported-direct-payment-gateways) of payment gateways that are supported by default in Spree. We also enable you to add a custom payment gateway and offer offline payment options such as checks and purchase orders.
+Spree enables you to utilize the payment method of choice for your e-commerce store. We have [two preferred payment gateway partners ](https://dev-docs.spreecommerce.org/internals/payments#supported-gateways)and a long [list](https://github.com/Shopify/active_merchant#supported-direct-payment-gateways) of payment gateways that are supported by default in Spree. We also enable you to add a custom payment gateway and offer offline payment options such as checks and purchase orders.
 
 #### [Add a Supported Gateway](payment-methods.md#add-a-supported-gateway) <a id="add-a-supported-gateway"></a>
 
