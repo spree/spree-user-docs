@@ -4,7 +4,7 @@
 
 Before a return can be made, the user must describe the reason\(s\) why they wish to return their item\(s\). This is the place where you can create and name these reasons for your store.
 
-![Return Authorization Reasons](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/zrzut-ekranu-2021-08-20-001032.jpg)
 
 Press the **New RMA Reason** button in upper right corner.
 
