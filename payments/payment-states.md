@@ -23,7 +23,7 @@ You can determine the payment state for a particular order by going to the Admin
 
 
 
-![Payment Look Up](https://guides.spreecommerce.org/static/dad829128fd7032d836665dd395431be/eef13/payments_look_up.jpg)
+![](../.gitbook/assets/zrzut-ekranu-2021-08-19-135155.jpg)
 
 The details for the payment will appear. The “Payment State” column will display one of the possible payment states listed above.
 
