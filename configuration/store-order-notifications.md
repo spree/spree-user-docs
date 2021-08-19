@@ -8,7 +8,7 @@ As a store owner, you may wish to receive an email notification each time your s
 
 To find your store’s **Order Notifications** settings, click on the **Configuration** dropdown and then click **Stores**. Find the store you’re looking for and click the **Edit** button.
 
-![Admin: Stores List with Edit Button Highlighted](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/zrzut-ekranu-2021-08-20-000659.jpg)
 
 Scroll down to the **Emails** category and add your desired email address to the field labeled **New Order Notifications Email**.
 
