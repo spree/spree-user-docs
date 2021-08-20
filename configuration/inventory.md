@@ -72,9 +72,9 @@ Select a product variant from the “Variant” drop-down list and enter the qua
 
 The new stock transfer is readied. Once you have added all of the items you want to transfer, click the “Transfer Stock” button.
 
-![Stock Transfer Complete](../.gitbook/assets/image%20%2812%29.png)
+![Stock Transfer Complete](../.gitbook/assets/image%20%28131%29.png)
 
 Now, when you look at the [Stock Movements](inventory.md#stock-movements) for each of the stock locations, you see that there are two new entries that correspond to the stock transfer, both with a system-assigned “Action” number \(actually, the ID for the stock transfer\).
 
-![Resulting Stock Movements](../.gitbook/assets/image%20%2811%29.png)
+![Resulting Stock Movements](../.gitbook/assets/image%20%28132%29.png)
 
